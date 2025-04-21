@@ -1,0 +1,77 @@
+{
+  "title": "Depressão",
+  "description": "A depressão, ou transtorno depressivo maior, é uma condição de saúde mental séria que vai muito além de uma simples tristeza passageira. Trata-se de um transtorno que afeta o humor, o corpo e o pensamento, podendo interferir na capacidade de uma pessoa realizar atividades diárias, manter relacionamentos e encontrar prazer na vida. É uma das principais causas de incapacidade em todo o mundo, mas a boa notícia é que ela pode ser tratada com sucesso na maioria dos casos.",
+  "symptoms": {
+    "description": "Os sintomas da depressão variam de pessoa para pessoa, mas alguns sinais são característicos e podem persistir por semanas, meses ou até mais tempo se não tratados. Entre os principais estão:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Humor deprimido",
+        "description": "Sentimento persistente de tristeza, vazio ou desespero, muitas vezes sem motivo aparente."
+      },
+      {
+        "id": "2",
+        "name": "Perda de interesse",
+        "description": "Falta de prazer em atividades que antes eram agradáveis, como hobbies, trabalho ou convívio social."
+      },
+      {
+        "id": "3",
+        "name": "Alterações no sono",
+        "description": "Insônia (dificuldade para dormir) ou hipersonia (dormir excessivamente)."
+      },
+      {
+        "id": "4",
+        "name": "Mudanças no apetite",
+        "description": "Perda ou ganho de peso significativo devido a alterações no apetite."
+      },
+      {
+        "id": "5",
+        "name": "Fadiga",
+        "description": "Sensação constante de cansaço ou falta de energia, mesmo sem esforço físico."
+      },
+      {
+        "id": "6",
+        "name": "Dificuldade de concentração",
+        "description": "Problemas para focar, tomar decisões ou lembrar de informações."
+      },
+      {
+        "id": "7",
+        "name": "Sentimentos de culpa ou inutilidade",
+        "description": "Autocrítica excessiva ou sensação de ser um bardo para os outros."
+      },
+      {
+        "id": "8",
+        "name": "Pensamentos suicidas",
+        "description": "Ideias recorrentes sobre morte ou suicídio, que exigem atenção imediata."
+      }
+    ]
+  },
+  "subTitle": "Para que seja diagnosticada como depressão, esses sintomas precisam estar presentes por pelo menos duas semanas e causar sofrimento significativo ou prejuízo no funcionamento da pessoa.",
+  "courseOfDisease": "A depressão pode se manifestar de forma leve, moderada ou grave, e seu curso varia. Algumas pessoas experimentam um único episódio depressivo na vida, enquanto outras podem ter episódios recorrentes, caracterizando um transtorno crônico. Fatores como estresse, eventos traumáticos, predisposição genética e desequilíbrios químicos no cérebro (como na serotonina e dopamina) podem contribuir para o surgimento da depressão. Sem tratamento, os sintomas podem se prolongar por meses ou anos, afetando gravemente a qualidade de vida.",
+  "treatment": {
+    "description": "A depressão é tratável, e a combinação de abordagens costuma ser mais eficaz. As principais opções incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "Terapias como a cognitivo-comportamental (TCC) ajudam a identificar e modificar padrões de pensamento negativos, além de ensinar estratégias para lidar com emoções difíceis."
+      },
+      {
+        "id": "2",
+        "name": "Medicação",
+        "description": "Antidepressivos podem ser prescritos por nosso psiquiatra para corrigir desequilíbrios químicos no cérebro. O uso deve ser monitorado preferencialmente por um médico psiquiatra."
+      },
+      {
+        "id": "3",
+        "name": "Mudanças no estilo de vida",
+        "description": "Atividade física regular, alimentação equilibrada e sono adequado podem complementar o tratamento."
+      },
+      {
+        "id": "4",
+        "name": "Suporte social",
+        "description": "Conversar com amigos, familiares ou participar de grupos de apoio pode aliviar o isolamento."
+      }
+    ]
+  },
+  "patientAdvice": "Se você suspeita que está com depressão, o primeiro passo é buscar ajuda. Agende uma avaliação profissional, converse com nosso médico psiquiatra ou psicólogo. Não se culpe pelos sintomas – a depressão não é sinal de fraqueza, mas uma condição médica que merece cuidado. Seja paciente com o tratamento, pois os resultados podem levar algumas semanas para aparecer. Enquanto isso, tente manter uma rotina simples, evite o isolamento e peça apoio a pessoas de confiança. Você não está sozinho, e há caminhos para se sentir melhor."
+}

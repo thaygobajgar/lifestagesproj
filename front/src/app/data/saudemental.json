@@ -1,0 +1,212 @@
+{
+  "doencas": [
+    {
+      "title": "Transtorno de Ansiedade",
+      "description": "O transtorno de ansiedade é caracterizado por uma preocupação excessiva e constante com eventos e situações do cotidiano. Pode incluir sintomas como apreensão, agitação, insônia e dificuldade para se concentrar.",
+      "symptoms": {
+        "description": "Os sintomas incluem:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Preocupação constante",
+            "description": "Ansiedade excessiva e recorrente sobre diversas situações da vida diária."
+          },
+          {
+            "id": 2,
+            "name": "Agitação",
+            "description": "Sensação de nervosismo ou inquietação, acompanhada de aumento do ritmo cardíaco."
+          },
+          {
+            "id": 3,
+            "name": "Dificuldade de concentração",
+            "description": "Dificuldade em se concentrar devido à presença constante de pensamentos ansiosos."
+          },
+          {
+            "id": 4,
+            "name": "Distúrbios do sono",
+            "description": "Dificuldade em adormecer ou manter o sono devido à ansiedade."
+          }
+        ]
+      },
+      "sub-title": "A ansiedade pode ser debilitante, afetando tanto o trabalho quanto as relações sociais.",
+      "course-of-disease": "O transtorno de ansiedade pode ser crônico, mas com o tratamento adequado, os sintomas podem ser controlados.",
+      "treatment": {
+        "description": "O tratamento pode envolver:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Terapia Cognitivo-Comportamental",
+            "description": "Uma abordagem terapêutica eficaz que visa modificar os padrões de pensamento disfuncionais relacionados à ansiedade."
+          },
+          {
+            "id": 2,
+            "name": "Medicação",
+            "description": "Medicamentos como ansiolíticos e antidepressivos podem ser usados para reduzir os sintomas."
+          },
+          {
+            "id": 3,
+            "name": "Técnicas de Relaxamento",
+            "description": "Exercícios como respiração profunda e meditação podem ajudar a reduzir a tensão e a ansiedade."
+          }
+        ]
+      },
+      "patient-advice": "Busque ajuda profissional caso sinta que a ansiedade está afetando sua vida. A combinação de tratamento medicamentoso e terapia pode trazer bons resultados."
+    },
+    {
+      "title": "Transtorno do Déficit de Atenção com Hiperatividade (TDAH)",
+      "description": "O TDAH é um transtorno neurológico que se caracteriza por dificuldades de concentração, impulsividade e, muitas vezes, hiperatividade. Os sintomas podem interferir nas atividades diárias e nos relacionamentos.",
+      "symptoms": {
+        "description": "Os sintomas incluem:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Dificuldade de atenção",
+            "description": "Falta de foco, dificuldade em completar tarefas e desatenção frequente."
+          },
+          {
+            "id": 2,
+            "name": "Hiperatividade",
+            "description": "Comportamento excessivamente ativo e dificuldade em ficar parado."
+          },
+          {
+            "id": 3,
+            "name": "Impulsividade",
+            "description": "Ação precipitada sem pensar nas consequências, interrompendo conversas ou decisões impulsivas."
+          },
+          {
+            "id": 4,
+            "name": "Esquecimento",
+            "description": "Esquecer compromissos, detalhes de atividades ou instruções recebidas."
+          }
+        ]
+      },
+      "sub-title": "O TDAH pode afetar a performance acadêmica, profissional e as relações sociais, mas pode ser controlado com tratamento adequado.",
+      "course-of-disease": "O TDAH tende a ser crônico, mas com o acompanhamento correto, os sintomas podem ser manejados ao longo da vida.",
+      "treatment": {
+        "description": "O tratamento pode envolver:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Medicação",
+            "description": "Medicamentos como estimulantes e não-estimulantes ajudam a melhorar a concentração e a reduzir os sintomas de impulsividade e hiperatividade."
+          },
+          {
+            "id": 2,
+            "name": "Terapia Comportamental",
+            "description": "A terapia pode ensinar estratégias para melhorar o foco e controlar os impulsos."
+          },
+          {
+            "id": 3,
+            "name": "Adaptação escolar e profissional",
+            "description": "Ambientes estruturados e adaptados para pessoas com TDAH podem facilitar o desempenho e reduzir a sobrecarga."
+          }
+        ]
+      },
+      "patient-advice": "Se você tem TDAH, é fundamental procurar ajuda especializada para desenvolver estratégias que ajudem a lidar com os sintomas no cotidiano."
+    },
+    {
+      "title": "Transtorno Obsessivo-Compulsivo (TOC)",
+      "description": "O TOC é caracterizado por obsessões (pensamentos repetitivos e angustiantes) e compulsões (comportamentos repetitivos para aliviar a ansiedade gerada pelas obsessões).",
+      "symptoms": {
+        "description": "Os sintomas incluem:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Obsessões",
+            "description": "Pensamentos recorrentes, invasivos e perturbadores, como medo de contaminação ou a necessidade de fazer algo de forma específica."
+          },
+          {
+            "id": 2,
+            "name": "Compulsões",
+            "description": "Comportamentos repetitivos (como lavar as mãos várias vezes) ou rituais que a pessoa sente que precisa realizar para aliviar a ansiedade."
+          },
+          {
+            "id": 3,
+            "name": "Medos irracionais",
+            "description": "Medos intensos de situações cotidianas, como tocar em objetos ou usar determinados utensílios."
+          },
+          {
+            "id": 4,
+            "name": "Dificuldade de controle",
+            "description": "Dificuldade em controlar as obsessões e compulsões, que afetam a rotina diária."
+          }
+        ]
+      },
+      "sub-title": "O TOC pode ser altamente debilitante, mas com tratamento especializado, as compulsões e obsessões podem ser controladas.",
+      "course-of-disease": "O TOC pode ser crônico, mas os sintomas podem ser aliviados com terapias e medicações apropriadas.",
+      "treatment": {
+        "description": "O tratamento pode envolver:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Terapia Cognitivo-Comportamental (TCC)",
+            "description": "Técnicas de TCC, como a exposição e prevenção de resposta, são eficazes no tratamento de TOC."
+          },
+          {
+            "id": 2,
+            "name": "Medicação",
+            "description": "Antidepressivos, como os ISRS, podem ser usados para reduzir os sintomas de obsessões e compulsões."
+          },
+          {
+            "id": 3,
+            "name": "Apoio psicológico contínuo",
+            "description": "Acompanhamento psicológico para lidar com a ansiedade e os comportamentos compulsivos."
+          }
+        ]
+      },
+      "patient-advice": "Se você tem TOC, procure ajuda profissional para aprender a controlar as obsessões e compulsões."
+    },
+    {
+      "title": "Fobia Social",
+      "description": "A fobia social é um transtorno de ansiedade caracterizado pelo medo intenso de ser avaliado negativamente em situações sociais. Pode causar grande desconforto e isolamento.",
+      "symptoms": {
+        "description": "Os sintomas incluem:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Medo de avaliação",
+            "description": "Medo intenso de ser julgado ou ridicularizado em situações sociais."
+          },
+          {
+            "id": 2,
+            "name": "Evitação de situações sociais",
+            "description": "Evitar eventos sociais, como festas, reuniões ou apresentações."
+          },
+          {
+            "id": 3,
+            "name": "Sintomas físicos de ansiedade",
+            "description": "Taquicardia, tremores, suor excessivo e náuseas em situações sociais."
+          },
+          {
+            "id": 4,
+            "name": "Dificuldade em interações sociais",
+            "description": "Dificuldade em iniciar ou manter conversas, resultando em isolamento social."
+          }
+        ]
+      },
+      "sub-title": "A fobia social pode impactar a vida profissional e pessoal, mas com tratamento adequado, os sintomas podem ser controlados.",
+      "course-of-disease": "A fobia social tende a ser crônica, mas o tratamento pode ajudar a melhorar a confiança em situações sociais.",
+      "treatment": {
+        "description": "O tratamento pode envolver:",
+        "list": [
+          {
+            "id": 1,
+            "name": "Terapia Cognitivo-Comportamental",
+            "description": "Técnicas que ajudam a pessoa a superar o medo de ser julgada e melhorar as interações sociais."
+          },
+          {
+            "id": 2,
+            "name": "Medicação",
+            "description": "Antidepressivos e ansiolíticos podem ser usados para reduzir os sintomas de ansiedade em situações sociais."
+          },
+          {
+            "id": 3,
+            "name": "Treinamento social",
+            "description": "Sessões de terapia focadas em melhorar as habilidades de interação social e redução do medo."
+          }
+        ]
+      },
+      "patient-advice": "Procure apoio terapêutico se a fobia social estiver afetando sua vida. O tratamento pode ajudar a melhorar sua confiança e interação social."
+    }
+  ]
+}
