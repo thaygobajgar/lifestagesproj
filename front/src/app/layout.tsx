@@ -76,7 +76,7 @@ export default function RootLayout({
               <ul className="flex flex-col gap-[12px]">
                 <li>
                   <Link href="/" className="text-green-500">
-                    Página Inicialsasasasasa
+                    Página Inicial
                   </Link>
                 </li>
                 <li>
