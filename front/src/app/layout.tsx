@@ -96,20 +96,26 @@ export default function RootLayout({
                 </li>
               </ul>
               <div className="flex gap-[12px] p-[12px]">
-                <img
-                  src="/icons/Instagram.svg"
-                  alt="Instagram"
-                  width={32}
-                  height={32}
-                  className="inline-block mr-2"
-                />{" "}
+                <Link
+                  href="https://www.instagram.com/life_stages_itanhaem/#"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/icons/Instagram.svg"
+                    alt="Instagram"
+                    width={32}
+                    height={32}
+                    className="inline-block mr-2"
+                  />
+                </Link>
                 <Link
                   href="https://wa.me/551334225805?text=Olá,%20gostaria%20de%20mais%20informações!"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/icons/WhatsApp.svg"
+                    src="/icons/Whatsapp.svg"
                     alt="WhatsApp"
                     width={32}
                     height={32}
