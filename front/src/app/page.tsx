@@ -40,13 +40,24 @@ export default function HomePage() {
     <main className="flex flex-col gap-[40px]">
       {/* Banner */}
       <div className="w-full max-w-screen-xl mx-auto h-[320px] lg:h-[440px] overflow-hidden relative">
+        {/* Imagem de fundo */}
         <Image
-          src="/images/banner-home.png"
+          src="/images/homepage.png"
           alt="Banner da Página Inicial"
           fill
           className="object-cover"
           priority
         />
+
+        {/* Overlay azul com degrade */}
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/70 via-blue-900/30 to-transparent z-10" />
+
+        {/* Texto acima do overlay */}
+        <div className="absolute inset-0 flex items-center justify-start px-8 z-20">
+          <h1 className="text-white text-2xl md:text-4xl font-bold max-w-[40%]">
+            Cuidando de Todas as Fases com Empatia e Ciência
+          </h1>
+        </div>
       </div>
 
       {/* Seção Quem Somos */}
@@ -66,15 +77,16 @@ export default function HomePage() {
           </div>
           <div className="flex flex-col gap-[40px]">
             <Text as="p" size="text-lg" className="mt-4" color="green-500">
-              Bem-vindo(a) à Life Stages, uma clínica dedicada ao cuidado da
-              saúde mental e infantil, localizada na Praia dos Sonhos, em
-              Itanhaém, SP. Somos Márcio Christian Paganatto e Ana Meri Possan
-              Paganatto, médicos apaixonados por nossas especialidades –
-              psiquiatria e pediatria, respectivamente – e unidos por uma
-              missão: oferecer atendimento humanizado e especializado para todas
-              as fases da vida, desde a infância até a idade adulta. Nossa
-              história é feita de esforço, aprendizado e amor pela medicina, e
-              queremos compartilhá-la com você.
+              Olá, seja bem-vindo à nova proposta de tratamento e acompanhamento
+              em Pediatria, Psiquiatria e Saúde Mental. Seja bem-vindo à LIFE
+              STAGES!!! <br></br>Uma clínica com a missão de levar o que há de
+              melhor e mais atual na Saúde Mental e Saúde Infanto-Juvenil. Nossa
+              clínica tem como objetivo proporcionar um atendimento de
+              excelência em saúde mental e saúde infanto-juvenil, oferecendo
+              tratamentos atualizados e baseados em evidências científicas.
+              Trabalhamos para promover o bem-estar integral de nossos
+              pacientes, apoiando-os em cada fase de suas vidas e proporcionando
+              um ambiente acolhedor e seguro.
             </Text>
             <Link href="/quem-somos">
               <Button className="py-2 w-[180px] md:w-[260px] px-4rounded-md text-white bg-gradient-to-r from-aqua-500 via-transparent to-green-500 rounded-[32px]">

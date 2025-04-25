@@ -22,20 +22,19 @@ export default function QuemSomos() {
         </div>
 
         <div className="flex flex-col justify-center items-center w-full">
-          <Text as="h1" color="green-500">
+          <Text as="h1" color="green-500" className="">
             Nossa clínica
           </Text>
           <Text as="p" size="text-sm md:text-base lg:text-base">
-            Olá, seja bem-vindo à nova proposta de tratamento e acompanhamento
-            em Pediatria, Psiquiatria e Saúde Mental. Seja bem-vindo à LIFE
-            STAGES!!! <br></br>Uma clínica com a missão de levar o que há de
-            melhor e mais atual na Saúde Mental e Saúde Infanto-Juvenil. Nossa
-            clínica tem como objetivo proporcionar um atendimento de excelência
-            em saúde mental e saúde infanto-juvenil, oferecendo tratamentos
-            atualizados e baseados em evidências científicas. Trabalhamos para
-            promover o bem-estar integral de nossos pacientes, apoiando-os em
-            cada fase de suas vidas e proporcionando um ambiente acolhedor e
-            seguro.
+            Bem-vindo(a) à Life Stages, uma clínica dedicada ao cuidado da saúde
+            mental e infantil, localizada na Praia dos Sonhos, em Itanhaém, SP.
+            Somos Márcio Christian Paganatto e Ana Meri Possan Paganatto,
+            médicos apaixonados por nossas especialidades – psiquiatria e
+            pediatria, respectivamente – e unidos por uma missão: oferecer
+            atendimento humanizado e especializado para todas as fases da vida,
+            desde a infância até a idade adulta. <br />
+            Nossa história é feita de esforço, aprendizado e amor pela medicina,
+            e queremos compartilhá-la com você.
           </Text>
         </div>
 
@@ -54,24 +53,32 @@ export default function QuemSomos() {
             <Text as="h3" color="green-500">
               Dr. Márcio Christian Paganatto
             </Text>
+            <Text as="p">
+              Médico Psiquiatra -
+              <span className="text-[12px] text-gray-500">
+                CRM/ SP: 146.872 - RQE:126.610
+              </span>
+            </Text>{" "}
             <Text as="p" size="text-sm md:text-base lg:text-base">
               Sou natural de Capivari, São Paulo, e cresci na pequena Rafard,
               onde passei minha infância e adolescência. Filho de pais
               comerciantes e neto de avós mecânicos, aprendi cedo o valor do
-              trabalho e da dedicação. Estudei em escolas públicas e, em busca
-              do meu sonho, formei-me em Medicina pela Fundação Barceló, em
-              Buenos Aires, Argentina, em 2004, onde também iniciei minha
-              carreira. Revalidei meu diploma pela Universidade Federal do Ceará
-              em 2007 e explorei áreas como cardiologia e nutrologia, com
-              pós-graduações pela PUC-PR e ABRAN. Mas foi na psiquiatria que
-              encontrei minha verdadeira vocação. Concluí minha especialização
-              pela IPEMED em 2014 e, desde então, dedico-me a cuidar da saúde
-              mental com empatia e compromisso. Nunca parei de me atualizar,
-              participando de inúmeros congressos e cursos, se destacando a
-              Preceptoria em Residência Médica pelo Hospital Sírio Libanês, o
-              Harvard Reserch on Psychiatric Trends pela Harvard University
-              (Cambridge, MA) e a Mentoria em Psiquiatria Injetável com a Dra.
-              Inês Gullich, para oferecer o melhor aos meus pacientes.
+              trabalho e da dedicação. <br />
+              Estudei em escolas públicas e, em busca do meu sonho, formei-me em
+              Medicina pela Fundação Barceló, em Buenos Aires, Argentina, em
+              2004, onde também iniciei minha carreira. Revalidei meu diploma
+              pela Universidade Federal do Ceará em 2007 e explorei áreas como
+              cardiologia e nutrologia, com pós-graduações pela PUC-PR e ABRAN.
+              <br />
+              Mas foi na psiquiatria que encontrei minha verdadeira vocação.
+              Concluí minha especialização pela IPEMED em 2014 e, desde então,
+              dedico-me a cuidar da saúde mental com empatia e compromisso.
+              Nunca parei de me atualizar, participando de inúmeros congressos e
+              cursos, se destacando a Preceptoria em Residência Médica pelo
+              Hospital Sírio Libanês, o Harvard Reserch on Psychiatric Trends
+              pela Harvard University (Cambridge, MA) e a Mentoria em
+              Psiquiatria Injetável com a Dra. Inês Gullich, para oferecer o
+              melhor aos meus pacientes.
             </Text>
           </div>
         </div>
@@ -90,29 +97,57 @@ export default function QuemSomos() {
           <div className="flex flex-col justify-center items-center md:items-start w-full gap-[24px]">
             <Text as="h3" color="green-500">
               Dra. Ana Meri Possan Paganatto
-            </Text>
+            </Text>{" "}
+            <Text as="p">
+              Médica Pediatra -
+              <span className="text-[12px] text-gray-500">
+                CRM/SP: 146.872 - RQE: 50655
+              </span>
+            </Text>{" "}
             <Text as="p" size="text-sm md:text-base lg:text-base">
               Eu sou Ana Meri, nascida em David Canabarro, Rio Grande do Sul,
               filha de mãe professora e de pai caminhoneiro. Cresci em um
               ambiente de muito esforço e aprendizado, estudando sempre em
-              escolas públicas. Assim como Márcio, formei-me em Medicina pela
-              Fundação Barceló, em Buenos Aires, em 2004, onde também comecei
-              minha trajetória como médica. Revalidei meu diploma pela
-              Universidade Federal do Ceará em 2007 e me especializei em
-              Pediatria Clínica pelo CAEPP (Instituto da Criança/HC-FMUSP),
-              concluindo a especialização em 2011. Sempre presei o aprendizado,
-              mantendo constante atualização dentro da pediatria através de
-              cursos e congressos. Tenho ampla experiência em consultório, além
-              de atuar como médica visitadora e plantonista no Hospital Regional
-              Jorge Rossmann desde março de 2018. Também trabalhei em outros
-              serviços públicos e privados, sempre com paixão por cuidar do
-              crescimento e desenvolvimento das crianças.
+              escolas públicas. <br />
+              Assim como Márcio, formei-me em Medicina pela Fundação Barceló, em
+              Buenos Aires, em 2004, onde também comecei minha trajetória como
+              médica. Revalidei meu diploma pela Universidade Federal do Ceará
+              em 2007 e me especializei em Pediatria Clínica pelo CAEPP
+              (Instituto da Criança/HC-FMUSP), concluindo a especialização em
+              2011.
+              <br /> Sempre presei o aprendizado, mantendo constante atualização
+              dentro da pediatria através de cursos e congressos. Tenho ampla
+              experiência em consultório, além de atuar como médica visitadora e
+              plantonista no Hospital Regional Jorge Rossmann desde março de
+              2018.
+              <br /> Também trabalhei em outros serviços públicos e privados,
+              sempre com paixão por cuidar do crescimento e desenvolvimento das
+              crianças.
             </Text>
           </div>
         </div>
-
-        {/* DR(A). NOME */}
-        <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[72px]">
+        <Text as="h3" color="green-500">
+          Nossa Jornada Juntos
+        </Text>
+        <Text as="p" size="text-sm md:text-base lg:text-base shadow-bot-green">
+          {" "}
+          Estamos juntos desde 1999, uma parceria que nasceu antes mesmo de
+          nossas carreiras e que nos trouxe nossos maiores tesouros: nossos
+          filhos, Giovanna e Guilherme. Foi esse amor pela família e pela
+          medicina que nos inspirou a criar a Life Stages – um espaço onde
+          unimos nossas especialidades para oferecer cuidado integral. Aqui,
+          combinamos psiquiatria e pediatria para atender às necessidades de
+          saúde mental e infantil, com foco em acolhimento e personalização.
+          Acreditamos que cada fase da vida tem seus desafios e suas conquistas,
+          e estamos aqui para apoiar você e sua família, seja enfrentando
+          desafios emocionais ou acompanhando o desenvolvimento dos pequenos.
+          <br />
+          Na Life Stages, você encontra um ambiente acolhedor, onde nosso
+          compromisso é cuidar com o coração e a expertise que a medicina exige.
+          Venha nos conhecer e faça parte dessa jornada de cuidado e bem-estar.
+        </Text>
+        {/* DR(A). CAMILA */}
+        <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[72px] mt-[24px]">
           <div className="relative w-full max-w-[320px] h-[350px]">
             <Image
               src="/images/medico2.jpeg"
@@ -125,20 +160,25 @@ export default function QuemSomos() {
           <div className="flex flex-col justify-center items-center md:items-start w-full gap-[24px]">
             <Text as="h3" color="green-500">
               Camila Pola
+            </Text>{" "}
+            <Text as="p">
+              Psicóloga -
+              <span className="text-[12px] text-gray-500">CRP 06/101291</span>
             </Text>
             <Text as="p" size="text-sm md:text-base lg:text-base">
               Muito prazer eu sou a Camila Psicóloga formada pela Universidade
               Católica de Santos/2009, Pós Graduada em Psicopedagogia,
-              Psicologia Clínica e Terapia Cognitivo Comportamental. No
-              consultório a psicóloga apaixonada em transformar vidas,
+              Psicologia Clínica e Terapia Cognitivo Comportamental.
+              <br /> No consultório a psicóloga apaixonada em transformar vidas,
               auxiliando as pessoas a compreenderem às situações que estão
               vivendo no atual momento e com isto aprenderem a tornar a vida
-              mais leve e saudável. Cristã e mamãe do Gustavo ( a minha versão
-              preferida), filha, irmã e tia ( a minha segunda versão preferida).
-              Amo minha família, adoro um café da tarde, valorizo os bons
-              costumes, empática e acolhedora. Minha missão é ser instrumento
-              que mostra que é capaz de transformar o mundo com empatia,
-              dedicação e amor!
+              mais leve e saudável. <br />
+              Cristã e mamãe do Gustavo ( a minha versão preferida), filha, irmã
+              e tia ( a minha segunda versão preferida).
+              <br /> Amo minha família, adoro um café da tarde, valorizo os bons
+              costumes, empática e acolhedora. <br />
+              Minha missão é ser instrumento que mostra que é capaz de
+              transformar o mundo com empatia, dedicação e amor!
             </Text>
           </div>
         </div>

@@ -13,7 +13,7 @@ export default function SaudeMentalPage() {
           transtornos mentais com o intuito de auxiliar na identificação de
           sintomas, além de orientações aos pacientes e familiares.
         </Text>
-        <ul className="flex flex-wrap gap-[24px]">
+        <ul className="flex flex-wrap gap-[24px] justify-center">
           <li>
             <TreatmentCard
               title="Depressão"

@@ -75,7 +75,7 @@ export function TreatmentContent({
             </Text>
             <Text as="p">
               <Text as="span" color="blue-500" weight="bold">
-                {item.name}:
+                {item.name && item.name + ":"}
               </Text>
               {item.description}
             </Text>
