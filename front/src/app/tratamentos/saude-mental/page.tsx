@@ -98,13 +98,6 @@ export default function SaudeMentalPage() {
               imageSrc="/images/banner-cetamina.png"
             />
           </li>
-          {/* <li>
-            <TreatmentCard
-              title="Saúde Mental"
-              href="/tratamentos/saude-mental/saude-mental"
-              imageSrc="/images/banner-saudeMental.png"
-            />
-          </li> */}
         </ul>
       </Section>
     </main>
