@@ -16,7 +16,7 @@ export default function SaudeMentalPage() {
       <Link href="/agendamento">
         <Button className="py-2 px-4 text-white bg-gradient-to-r from-aqua-500 via-transparent to-green-500 rounded-[32px]">
           <Text weight="bold" className="flex" color="white">
-            Agende sua consulta{" "}
+            Agende sua consulta
             <Image
               src="/icons/check.svg"
               alt="Check"
