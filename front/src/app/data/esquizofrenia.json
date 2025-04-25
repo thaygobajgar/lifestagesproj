@@ -1,0 +1,83 @@
+{
+  "title": "Esquizofrenia",
+  "description": "A Esquizofrenia é um transtorno mental grave que afeta a forma como uma pessoa percebe a realidade, pensa, sente e se comporta. Apesar de ser frequentemente associada a estigmas, ela é uma condição médica, não um defeito de caráter, e resulta de uma combinação de fatores biológicos, genéticos e ambientais. Com tratamento adequado, muitas pessoas com esquizofrenia conseguem gerenciar os sintomas e levar uma vida funcional e significativa.",
+  "symptoms": {
+    "description": "Os sintomas da esquizofrenia são divididos em três categorias principais:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Sintomas positivos",
+        "description": "Alterações que \"se somam\" à experiência normal, como:"
+      },
+      {
+        "id": "2",
+        "name": "Alucinações",
+        "description": "Ouvir vozes (o mais comum), ver ou sentir coisas que não estão presentes."
+      },
+      {
+        "id": "3",
+        "name": "Delírios",
+        "description": "Crenças falsas e fixas, como achar que está sendo perseguido ou que tem poderes especiais."
+      },
+      {
+        "id": "4",
+        "name": "Pensamento desorganizado",
+        "description": "Dificuldade em organizar ideias, com fala confusa ou desconexa."
+      },
+      {
+        "id": "5",
+        "name": "Sintomas negativos",
+        "description": ""
+      },
+      {
+        "id": "6",
+        "name": "Apatia",
+        "description": "Falta de motivação ou interesse em atividades."
+      },
+      {
+        "id": "7",
+        "name": "Isolamento",
+        "description": "Redução do contato social ou expressão emocional."
+      },
+      {
+        "id": "8",
+        "name": "Dificuldade em sentir prazer",
+        "description": "Perda de alegria nas coisas do dia a dia."
+      },
+      {
+        "id": "9",
+        "name": "Sintomas cognitivos",
+        "description": "Problemas com memória, atenção ou capacidade de planejar e resolver problemas."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Esses sintomas geralmente aparecem de forma significativa por pelo menos um mês, com sinais mais sutis por seis meses, para que o diagnóstico seja confirmado.",
+  "courseOfDisease": "A esquizofrenia costuma se manifestar no final da adolescência ou início da idade adulta (entre 16 e 30 anos), sendo um pouco mais precoce em homens. Ela pode começar de forma gradual (com isolamento ou ideias estranhas) ou abrupta (com um surto psicótico). Fatores como predisposição genética, alterações no cérebro (como desequilíbrios na dopamina) e eventos estressantes podem desencadeá-la. O curso varia: alguns têm episódios isolados com recuperação parcial, enquanto outros enfrentam sintomas crônicos. Sem tratamento, há risco de piora, mas a intervenção precoce melhora o prognóstico.",
+  "treatment": {
+    "description": "O manejo da esquizofrenia é contínuo e combina diferentes abordagens:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Medicação",
+        "description": "Antipsicóticos são essenciais para reduzir alucinações e delírios. O uso deve ser ajustado por um psiquiatra, pois efeitos colaterais podem ocorrer."
+      },
+      {
+        "id": "2",
+        "name": "Psicoterapia",
+        "description": "Terapias como a cognitivo-comportamental (TCC) ajudam a lidar com sintomas persistentes, melhorar o funcionamento social e questionar delírios de forma segura"
+      },
+      {
+        "id": "3",
+        "name": "Reabilitação psicossocial",
+        "description": "Programas de apoio ao trabalho, educação e habilidades sociais ajudam na reintegração à vida cotidiana."
+      },
+      {
+        "id": "4",
+        "name": "Suporte familiar",
+        "description": "Envolver a família na psicoeducação melhora a adesão ao tratamento e reduz conflitos."
+      }
+    ],
+    "advice": "Em surtos graves, como delírios intensos ou risco à segurança, internação pode ser necessária."
+  },
+  "patientAdvice": "Se você ou alguém próximo apresenta sinais de esquizofrenia, agende uma consulta com nosso médico psiquiatra o quanto antes – a intervenção precoce faz diferença. Não tente \"desmentir\" alucinações ou delírios à força; isso pode aumentar o estresse. Aceitar o tratamento pode ser difícil no início, mas ele é crucial para o controle dos sintomas. Para familiares, paciência e compreensão são fundamentais – evite culpar a pessoa pelos comportamentos. Com apoio médico e social, é possível conviver com a esquizofrenia e encontrar estabilidade."
+}

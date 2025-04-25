@@ -1,0 +1,107 @@
+{
+  "title": "Aleitamento Materno",
+  "description": "O aleitamento materno é o processo de alimentar o bebê diretamente com o leite produzido pela mãe, sendo considerado o padrão ouro de nutrição nos primeiros meses de vida. Recomendado pela Organização Mundial da Saúde (OMS) como exclusivo até os 6 meses e complementar até os 2 anos ou mais, ele vai além da alimentação: é uma base essencial para o crescimento, o desenvolvimento e o vínculo afetivo entre mãe e filho. O acompanhamento pediátrico especializado é fundamental para apoiar esse processo e orientar a família.",
+  "definition": {
+    "title": "O que é Aleitamento Materno?",
+    "description": "O aleitamento materno começa logo após o nascimento, com o colostro – um leite rico em anticorpos – e evolui para o leite maduro, que fornece todos os nutrientes que o bebê precisa nos primeiros 6 meses.",
+    "list": [
+      {
+        "id": "1",
+        "name": "Alimento natural",
+        "description": "Adaptado às demandas do recém-nascido, e não requer preparo ou complementos nesse período."
+      },
+      {
+        "id": "2",
+        "name": "Desenvolvimento da mandíbula",
+        "description": "O ato de amamentar também estimula o desenvolvimento da mandíbula e fortalece a conexão emocional com a mãe."
+      }
+    ],
+    "advice": ""
+  },
+  "benefits": {
+    "title": "Importância do Aleitamento Materno",
+    "description": "O leite materno oferece benefícios incomparáveis:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Nutrição ideal",
+        "description": "Contém proteínas, gorduras, vitaminas e anticorpos na medida certa, ajustando-se às fases de crescimento."
+      },
+      {
+        "id": "2",
+        "name": "Proteção imunológica",
+        "description": "Reduz o risco de infecções respiratórias, diarreias e alergias, graças aos anticorpos maternos."
+      },
+      {
+        "id": "3",
+        "name": "Desenvolvimento saudável",
+        "description": "Favorece o crescimento cerebral, a visão e o sistema digestivo, além de diminuir a chance de obesidade futura."
+      },
+      {
+        "id": "4",
+        "name": "Benefícios para a mãe",
+        "description": "Ajuda na recuperação pós-parto, reduz o risco de câncer de mama e fortalece o vínculo com o bebê."
+      },
+      {
+        "id": "5",
+        "name": "Impacto a longo prazo",
+        "description": "Crianças amamentadas têm menos complicações de saúde e melhor desempenho cognitivo."
+      }
+    ],
+    "advice": "A pediatra monitora o ganho de peso e orienta ajustes, garantindo que o aleitamento seja bem-sucedido."
+  },
+  "developmentPhases": {
+    "title": "Curso do Aleitamento Materno",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Primeiros dias",
+        "description": "O colostro, em pequenas quantidades, é suficiente para o bebê. A \"subida\" do leite ocorre entre o 2º e 5º dia."
+      },
+      {
+        "id": "2",
+        "name": "0 a 6 meses",
+        "description": "Amamentação exclusiva, sob livre demanda (sempre que o bebê quiser), sem água, chás ou fórmulas, salvo indicação da médica pediatra."
+      },
+      {
+        "id": "3",
+        "name": "Após 6 meses",
+        "description": "Introdução de alimentos complementares, mantendo o leite materno como fonte nutricional e afetiva."
+      }
+    ],
+    "advice": "Cada bebê e mãe têm um ritmo único, e nossa pediatra ajudará na adaptação desse processo."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Primeira hora",
+        "description": "Inicie a amamentação logo após o nascimento, se possível, para estimular a produção de leite e o reflexo de sucção."
+      },
+      {
+        "id": "2",
+        "name": "Posição e pega",
+        "description": "Certifique-se de que o bebê abocanhe a aréola, não só o bico, para evitar dor e garantir boa sucção."
+      },
+      {
+        "id": "3",
+        "name": "Livre demanda",
+        "description": "Amamente sempre que o bebê pedir – chorar é um sinal tardio de fome. Frequência alta nos primeiros meses é normal."
+      },
+      {
+        "id": "4",
+        "name": "Cuide da mãe",
+        "description": "Hidrate-se, alimente-se bem e descanse quando puder. O apoio da família é essencial para o sucesso."
+      },
+      {
+        "id": "5",
+        "name": "Sinais de alerta",
+        "description": "Se o bebê não ganha peso, mama pouco ou há dor intensa, consulte o pediatra imediatamente."
+      }
+    ],
+    "advice": "O aleitamento materno é um ato de cuidado que exige paciência e suporte. Com orientação especializada, ele se torna uma experiência gratificante, construindo uma base sólida para o desenvolvimento da criança e a harmonia familiar. Na LIFE STAGES você e seu filho terão o cuidado e as orientações necessárias para que essa fase seja desenvolvida com naturalidade e satisfação. Agende a consulta do seu bebê!"
+  }
+}

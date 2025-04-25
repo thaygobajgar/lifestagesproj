@@ -1,0 +1,53 @@
+{
+  "title": "Transtorno Bipolar",
+  "description": "O Transtorno Bipolar é uma condição psiquiátrica caracterizada por alterações extremas no humor, que oscilam entre episódios de mania (ou hipomania) e depressão. Essas mudanças vão além das variações normais de humor e podem afetar profundamente a vida da pessoa, interferindo no sono, nos relacionamentos, no trabalho e na saúde geral. É uma doença crônica, mas com tratamento adequado, muitas pessoas conseguem levar uma vida equilibrada e produtiva.",
+  "symptoms": {
+    "description": "O transtorno bipolar se manifesta em dois pólos opostos de humor, que podem variar em intensidade e duração:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Episódios de mania/hipomania",
+        "description": "Humor elevado ou irritável, energia excessiva, autoestima inflada, diminuição da necessidade de sono, fala acelerada, pensamentos rápidos, comportamentos impulsivos (como gastos excessivos ou decisões arriscadas) e, em casos graves, delírios ou alucinações. A hipomania é uma forma mais leve, sem perda de contato com a realidade."
+      },
+      {
+        "id": "2",
+        "name": "Episódios depressivos",
+        "description": "Tristeza profunda, perda de interesse em atividades, fadiga, alterações no apetite ou sono, dificuldade de concentração, sentimentos de culpa ou inutilidade e, em alguns casos, pensamentos suicidas."
+      },
+      {
+        "id": "3",
+        "name": "Episódios mistos",
+        "description": "Algumas pessoas experimentam sintomas de mania e depressão ao mesmo tempo, como agitação combinada com desespero."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Para o diagnóstico, esses episódios devem causar impacto significativo na vida da pessoa e não serem explicados por outras condições ou uso de substâncias.",
+  "courseOfDisease": "O transtorno bipolar geralmente surge no final da adolescência ou início da idade adulta, embora possa se manifestar em outras fases da vida. Ele é classificado em tipos, como Bipolar I (com episódios de mania plena) e Bipolar II (com hipomania e depressão). A frequência e a gravidade dos episódios variam: alguns têm crises esporádicas, enquanto outros enfrentam ciclos rápidos. Fatores genéticos, estresse e desequilíbrios químicos no cérebro (como serotonina e dopamina) estão envolvidos. Sem tratamento, os episódios podem se intensificar, aumentando o risco de complicações como abuso de substâncias ou suicídio.",
+  "treatment": {
+    "description": "O manejo do transtorno bipolar exige uma abordagem contínua e personalizada:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Medicação",
+        "description": "Estabilizadores de humor são a base do tratamento, ajudando a prevenir oscilações. Antipsicóticos e antidepressivos podem ser usados com cuidado, sob supervisão do médico psiquiatra."
+      },
+      {
+        "id": "2",
+        "name": "Psicoterapia",
+        "description": "Terapias e psicoeducação ajudam a entender a doença, reconhecer sinais de recaída e desenvolver estratégias de enfrentamento."
+      },
+      {
+        "id": "3",
+        "name": "Rotina estruturada",
+        "description": "Manter horários regulares de sono, alimentação e atividades pode reduzir o risco de novos episódios."
+      },
+      {
+        "id": "4",
+        "name": "Apoio social",
+        "description": "Envolver família e amigos no processo de cuidado melhora a adesão ao tratamento."
+      }
+    ],
+    "advice": "Em crises graves, como mania intensa ou risco suicida, internação pode ser necessária."
+  },
+  "patientAdvice": "Se você ou algum familiar tem a suspeita de transtorno bipolar, agende uma consulta com nosso médico psiquiatra para uma avaliação detalhada – o diagnóstico precoce faz diferença. Anote seus sintomas e períodos de mudança de humor para facilitar a consulta. Aceitar o tratamento pode ser desafiador, mas é essencial para o equilíbrio. Evite álcool e drogas, que pioram os sintomas, e busque apoio de pessoas próximas. O transtorno bipolar não define quem você é – com cuidado adequado, é possível controlar os sintomas e viver bem."
+}

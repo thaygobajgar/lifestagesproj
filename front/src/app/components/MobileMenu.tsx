@@ -10,7 +10,7 @@ export default function MobileMenu() {
     <>
       {/* Botão visível no topo direito no mobile */}
       <button
-        className="md:hidden absolute top-4 right-4 bg-blue-600 text-white p-2 rounded shadow z-50"
+        className="md:hidden absolute top-4 right-4 bg-green-500 text-white p-2 rounded shadow z-50"
         onClick={() => setIsOpen(true)}
         aria-label="Abrir menu"
       >
@@ -21,21 +21,21 @@ export default function MobileMenu() {
       {isOpen && (
         <div className="md:hidden fixed top-0 left-0 right-0 bg-white border-b shadow-md z-40 p-4 max-w-[320px] mx-auto flex flex-col space-y-2">
           <div className="flex justify-between items-center mb-2">
-            <span className="text-lg font-bold">Menu</span>
+            <span className="text-lg font-bold text-green-500">Menu</span>
             <button
               onClick={() => setIsOpen(false)}
-              className="text-gray-600"
+              className="text-gray-600 bg-green-500 rounded-full p-1"
               aria-label="Fechar menu"
             >
               ✕
             </button>
           </div>
-          <ul className="flex flex-col space-y-2">
+          <ul className="flex flex-col items-center space-y-2">
             <li>
               <Link
                 href="/"
                 onClick={() => setIsOpen(false)}
-                className="text-blue-500 underline"
+                className="text-green-500 underline"
               >
                 Página Inicial
               </Link>
@@ -44,7 +44,7 @@ export default function MobileMenu() {
               <Link
                 href="/quem-somos"
                 onClick={() => setIsOpen(false)}
-                className="text-blue-500 underline"
+                className="text-green-500 underline"
               >
                 Quem somos
               </Link>
@@ -53,7 +53,7 @@ export default function MobileMenu() {
               <Link
                 href="/tratamentos"
                 onClick={() => setIsOpen(false)}
-                className="text-blue-500 underline"
+                className="text-green-500 underline"
               >
                 Tratamentos
               </Link>
@@ -62,7 +62,7 @@ export default function MobileMenu() {
               <Link
                 href="/agendamento"
                 onClick={() => setIsOpen(false)}
-                className="text-blue-500 underline"
+                className="text-green-500 underline"
               >
                 Agendamento
               </Link>

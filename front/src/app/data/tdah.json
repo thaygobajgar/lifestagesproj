@@ -1,0 +1,63 @@
+{
+  "title": "TDAH",
+  "description": "O Transtorno do Déficit de Atenção e Hiperatividade (TDAH) é um transtorno neurobiológico que afeta a capacidade de manter a atenção, controlar impulsos e regular o comportamento de acordo com a idade ou contexto. Embora seja mais comumente diagnosticado na infância, o TDAH pode persistir na vida adulta, impactando a escola, o trabalho e os relacionamentos. Ele não é apenas uma questão de \"falta de vontade\" – está relacionado a diferenças no funcionamento do cérebro, especialmente em áreas responsáveis pela atenção e autorregulação.",
+  "symptoms": {
+    "description": "O TDAH pode se apresentar de três formas: predominante desatento, predominante hiperativo-impulsivo ou combinado. Os sintomas variam, mas os principais incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Desatenção",
+        "description": "Dificuldade em manter o foco em tarefas, distração frequente, esquecimento de compromissos ou perda de objetos do dia a dia (como chaves ou materiais escolares)."
+      },
+      {
+        "id": "2",
+        "name": "Hiperatividade",
+        "description": "Inquietação constante, dificuldade em ficar parado ou quieto, falar excessivamente ou mexer-se em momentos inadequados (mais comum em crianças)."
+      },
+      {
+        "id": "3",
+        "name": "Impulsividade",
+        "description": "Agir sem pensar nas consequências, interromper os outros, dificuldade em esperar a vez ou tomar decisões precipitadas."
+      },
+      {
+        "id": "4",
+        "name": "Desorganização",
+        "description": "Problemas para planejar tarefas, gerenciar o tempo ou completar projetos, mesmo com esforço."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Esses sintomas devem estar presentes por pelo menos seis meses, aparecer antes dos 12 anos e causar prejuízo em mais de um ambiente (como casa, escola ou trabalho) para que o diagnóstico seja considerado.",
+  "courseOfDisease": "O TDAH é um transtorno crônico, mas seus sintomas podem mudar com o tempo. Na infância, a hiperatividade costuma ser mais evidente, enquanto na adolescência e vida adulta a desatenção e a impulsividade podem se destacar mais. Fatores genéticos têm forte influência no TDAH, e ele frequentemente ocorre em famílias. Sem tratamento, pode levar a dificuldades acadêmicas, baixa autoestima, problemas no trabalho ou conflitos interpessoais. Além disso, o TDAH pode coexistir com outros transtornos, como ansiedade ou depressão.",
+  "treatment": {
+    "description": "O TDAH é manejável com uma abordagem multimodal, adaptada às necessidades de cada pessoa:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Medicação",
+        "description": "Estimulantes são frequentemente usados para melhorar a concentração e reduzir a impulsividade. Alternativas não estimulantes também existem. O uso deve ser prescrito e monitorado por médico psiquiatra."
+      },
+      {
+        "id": "2",
+        "name": "Psicoterapia",
+        "description": "A terapia cognitivo-comportamental (TCC) ajuda a desenvolver habilidades de organização, controle de impulsos e estratégias para lidar com emoções."
+      },
+      {
+        "id": "3",
+        "name": "Treinamento comportamental",
+        "description": "Em crianças, envolve pais e professores para reforçar comportamentos positivos e criar rotinas estruturadas."
+      },
+      {
+        "id": "4",
+        "name": "Apoio educacional",
+        "description": "Adaptações na escola, como mais tempo para provas, podem fazer diferença."
+      },
+      {
+        "id": "5",
+        "name": "Estilo de vida",
+        "description": "Sono regular, exercícios físicos e alimentação equilibrada ajudam a reduzir os sintomas."
+      }
+    ],
+    "advice": ""
+  },
+  "patientAdvice": "Se você ou alguém próximo suspeita de TDAH, agende uma consulta com nosso médico psiquiatra para uma avaliação detalhada. O diagnóstico exige uma análise cuidadosa, pois os sintomas podem ser confundidos com outros problemas. Não se sinta culpado ou envergonhado – o TDAH é uma condição médica, não um defeito pessoal. Estabeleça rotinas simples, use lembretes e peça ajuda quando necessário. Para pais, paciência e apoio são fundamentais. Com o tratamento certo, é possível conviver bem com o TDAH e aproveitar seus pontos fortes, como criatividade e energia."
+}

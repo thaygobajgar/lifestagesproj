@@ -1,0 +1,53 @@
+{
+  "title": "Tratamento da Depressão com Cetamina",
+  "description": "A cetamina é uma medicação que vem ganhando destaque no tratamento da depressão, especialmente em casos graves ou resistentes, quando os antidepressivos tradicionais não surtem efeito. Originalmente usada como anestésico, ela foi redescoberta por suas propriedades antidepressivas rápidas, oferecendo uma alternativa promissora para pacientes que não respondem às terapias convencionais ou que enfrentam pensamentos suicidas persistentes. Apesar de inovador, seu uso exige supervisão médica psiquiátrica rigorosa.",
+  "howItWorks": {
+    "description": "Como a Cetamina Funciona no Tratamento da Depressão:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Infusão intravenosa",
+        "description": "Administrada em clínicas ou hospitais, em doses baixas, sob monitoramento. Na Life Stages, temos um ambiente adequado e dentro das normas estabelecidas para a aplicação de Cetamina, supervisionada por nosso médico psiquiatra e nossa equipe de enfermagem."
+      },
+      {
+        "id": "2",
+        "name": "Spray nasal (Escetamina)",
+        "description": "Uma versão derivada, aprovada em alguns países, aplicada em nossa clínica com supervisão de nossa equipe médica e de enfermagem."
+      }
+    ]
+  },
+  "symptoms": {
+    "description": "Sintomas Alvo e Curso do Tratamento",
+    "list": [
+      {
+        "id": "1",
+        "name": "",
+        "description": "Depressão maior resistente ao tratamento (quando outros antidepressivos falharam)."
+      },
+      {
+        "id": "2",
+        "name": "",
+        "description": "Crises agudas com ideação suicida, devido à sua ação rápida."
+      }
+    ]
+  },
+  "diagnosticCriteria": "O tratamento geralmente começa com uma série de infusões (ex.: 2 a 3 vezes por semana, por algumas semanas), seguida de manutenção conforme a resposta do paciente. O alívio pode ser temporário, exigindo doses periódicas para sustentar os benefícios. Nem todos respondem à cetamina, mas estudos mostram melhora significativa em cerca de 60 a 70% dos casos resistentes.",
+  "courseOfDisease": "",
+  "treatment": {
+    "description": "O tratamento geralmente começa com uma série de infusões (ex.: 2 a 3 vezes por semana, por algumas semanas), seguida de manutenção conforme a resposta do paciente. O alívio pode ser temporário, exigindo doses periódicas para sustentar os benefícios. Nem todos respondem à cetamina, mas estudos mostram melhora significativa em cerca de 60 a 70% dos casos resistentes.",
+    "list": [
+      {
+        "id": "1",
+        "name": "Benefícios",
+        "description": "Ação rápida, redução de pensamentos suicidas, alternativa para casos graves."
+      },
+      {
+        "id": "2",
+        "name": "Riscos e efeitos colaterais",
+        "description": "Tontura, sensação de \"desconexão\" (dissociação), aumento da pressão arterial, náuseas e, em raros casos, alucinações leves."
+      }
+    ],
+    "advice": "A cetamina só deve ser administrada por psiquiatras ou equipes especializadas, em ambientes controlados."
+  },
+  "patientAdvice": "Se você sofre de depressão grave ou resistente e já tentou outros tratamentos sem sucesso, converse com seu psiquiatra ou agende uma consulta com nosso psiquiatra sobre a possibilidade de tratamento com cetamina. Ela não é uma solução milagrosa nem indicada para todos – uma avaliação detalhada é essencial para determinar se é adequada ao seu caso. Durante o tratamento, você será monitorado de perto. Evite dirigir ou operar máquinas após as sessões, devido à sedação temporária. A cetamina pode ser um complemento ao tratamento com antidepressivos, a psicoterapia e a outros cuidados, então mantenha um plano integrado. Com supervisão adequada, ela oferece esperança onde antes havia poucas opções. Serviço disponível a partir de julho/2025."
+}

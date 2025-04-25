@@ -1,0 +1,73 @@
+{
+  "title": "Transtorno por Uso de Substâncias",
+  "description": "O Transtorno por Uso de Substâncias é uma condição em que o consumo de álcool, drogas ou medicamentos se torna problemático, levando a prejuízos na saúde, no trabalho, nos relacionamentos ou na vida social. Ele vai além do uso ocasional, caracterizando-se por uma perda de controle sobre o consumo e, muitas vezes, uma dependência física ou psicológica. É uma doença complexa, influenciada por fatores biológicos, psicológicos e sociais, mas tratável com a abordagem certa.",
+  "symptoms": {
+    "description": "Os sinais variam conforme a substância (como álcool, maconha, cocaína, opioides ou ansiolíticos), mas alguns sintomas são comuns:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Uso descontrolado",
+        "description": "Consumir mais ou por mais tempo do que o planejado, sem conseguir reduzir ou parar, apesar de tentar."
+      },
+      {
+        "id": "2",
+        "name": "Desejo intenso",
+        "description": "Vontade frequente e difícil de resistir de usar a substância (craving)."
+      },
+      {
+        "id": "3",
+        "name": "Tolerância",
+        "description": "Precisar de doses maiores para sentir os mesmos efeitos."
+      },
+      {
+        "id": "4",
+        "name": "Abstinência",
+        "description": "Sintomas físicos ou emocionais (como tremores, ansiedade ou irritabilidade) ao tentar parar o uso."
+      },
+      {
+        "id": "5",
+        "name": "Prejuízo na vida diária",
+        "description": "Descuidar de responsabilidades, abandonar hobbies ou enfrentar problemas legais e financeiros por causa do uso."
+      },
+      {
+        "id": "6",
+        "name": "Uso apesar de consequências",
+        "description": "Continuar consumindo mesmo sabendo dos danos à saúde ou aos relacionamentos."
+      }
+    ]
+  },
+  "diagnosticCriteria": "O diagnóstico depende da gravidade (leve, moderado ou grave), avaliada por critérios como a quantidade de sintomas e o impacto na vida da pessoa.",
+  "courseOfDisease": "O transtorno pode começar com um uso experimental ou recreativo que evolui para um padrão problemático. Fatores como predisposição genética, traumas, estresse ou transtornos mentais (como depressão ou ansiedade) aumentam o risco. Sem intervenção, o uso crônico pode levar a danos físicos (como problemas no fígado ou coração), isolamento social e risco de overdose. Muitas pessoas passam por recaídas, mas isso não significa fracasso – é parte do processo de recuperação.",
+  "treatment": {
+    "description": "O tratamento é individualizado e geralmente combina várias estratégias:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Desintoxicação",
+        "description": "Em casos de dependência física, a interrupção do uso pode exigir supervisão médica para gerenciar sintomas de abstinência."
+      },
+      {
+        "id": "2",
+        "name": "Psicoterapia",
+        "description": "Terapias ajudam a identificar gatilhos, mudar padrões de pensamento e desenvolver habilidades para evitar o uso. Terapias motivacionais também são eficazes."
+      },
+      {
+        "id": "3",
+        "name": "Medicação",
+        "description": "Dependendo da substância, medicamentos podem reduzir o desejo ou substituir a droga de forma controlada."
+      },
+      {
+        "id": "4",
+        "name": "Grupos de apoio",
+        "description": "Programas como Alcoólicos Anônimos (AA) ou Narcóticos Anônimos (NA) oferecem suporte comunitário."
+      },
+      {
+        "id": "5",
+        "name": "Reabilitação",
+        "description": "Clínicas ou internações podem ser indicadas em casos graves."
+      }
+    ],
+    "advice": "Mudanças no estilo de vida, como evitar ambientes associados ao uso e fortalecer relações saudáveis, são fundamentais."
+  },
+  "patientAdvice": "Se você ou alguém próximo enfrenta problemas com substâncias, o primeiro passo é reconhecer a situação e buscar ajuda de um médico psiquiatra, na Life Stages nosso médico psiquiatra tem vasta experiência no atendimento a pacientes com Transtorno por uso por substâncias - dependência química. Não se sinta envergonhado – pedir apoio é um sinal de força. Seja honesto sobre seu uso para que o tratamento seja eficaz. Recuperação leva tempo e pode incluir recaídas, mas cada esforço conta. Envolva familiares ou amigos de confiança e foque em pequenos passos. Você não está sozinho, e há caminhos para uma vida mais saudável."
+}

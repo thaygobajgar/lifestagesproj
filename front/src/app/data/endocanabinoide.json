@@ -1,0 +1,73 @@
+{
+  "title": "Medicina Endocanabinoide e sua aplicação no Tratamento de Transtornos Mentais",
+  "description": "A Medicina Endocanabinoide é uma área emergente da ciência que estuda o sistema endocanabinoide, um complexo sistema biológico presente em humanos e outros animais, e seu potencial terapêutico no tratamento de transtornos mentais e outras condições de saúde. Esse sistema regula funções como humor, sono, apetite, dor e resposta ao estresse, e sua manipulação por compostos da cannabis (como THC e CBD) ou medicamentos específicos tem mostrado promessa em diversas aplicações clínicas.",
+  "howItWorks": {
+    "description": "O que é o Sistema Endocanabinoide?",
+    "list": [
+      {
+        "id": "1",
+        "name": "",
+        "description": "O sistema endocanabinoide é composto por receptores (principalmente CB1 e CB2), endocanabinoides (moléculas produzidas pelo corpo, como anandamida e 2-AG) e enzimas que os sintetizam e degradam. Os receptores CB1 estão concentrados no cérebro e sistema nervoso, influenciando emoções e cognição, enquanto os CB2 predominam no sistema imunológico, modulando inflamação e dor. A cannabis, ao interagir com esses receptores, pode alterar o equilíbrio desse sistema, oferecendo benefícios terapêuticos."
+      }
+    ]
+  },
+  "symptoms": {
+    "description": "Sintomas e Condições Alvo",
+    "list": [
+      {
+        "id": "1",
+        "name": "Ansiedade e estresse",
+        "description": "O CBD (canabidiol), um composto não psicoativo da cannabis, pode reduzir a ansiedade em doses controladas, equilibrando a resposta ao estresse."
+      },
+      {
+        "id": "2",
+        "name": "Depressão",
+        "description": "Há evidências iniciais de que a modulação do sistema endocanabinoide pode melhorar o humor, possivelmente por aumentar os níveis de anandamida."
+      },
+      {
+        "id": "3",
+        "name": "Transtorno de estresse pós-traumático (TEPT)",
+        "description": "O CBD associado a outros canabinoides pode ajudar a diminuir pesadelos e memórias intrusivas."
+      },
+      {
+        "id": "4",
+        "name": "Insônia",
+        "description": "O THC (tetrahidrocanabinol), o componente psicoativo, pode facilitar o sono, embora o uso crônico deva ser monitorado."
+      },
+      {
+        "id": "5",
+        "name": "Dor crônica",
+        "description": "Tanto o THC quanto o CBD têm propriedades analgésicas, úteis em condições que afetam a saúde mental."
+      }
+    ]
+  },
+  "diagnosticCriteria": "O uso terapêutico da cannabis é um campo em evolução. A resposta ao tratamento varia: alguns pacientes sentem alívio rápido, enquanto outros precisam de ajustes na dose ou combinação com terapias tradicionais. A legalidade e a regulamentação variam entre países, e no Brasil, por exemplo, produtos à base de cannabis são permitidos apenas com prescrição médica e aprovação da Anvisa. O uso prolongado de THC pode levar à tolerância ou dependência, enquanto o CBD é geralmente bem tolerado, com poucos efeitos colaterais.",
+  "courseOfDisease": "",
+  "treatment": {
+    "description": "As opções incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Fitocanabinoides",
+        "description": "Produtos derivados da cannabis, como óleos de CBD isolado ou em associação com outros canabinoides, cápsulas ou gomas."
+      },
+      {
+        "id": "2",
+        "name": "Farmacoterapia",
+        "description": "Medicamentos sintéticos, como dronabinol ou nabilona, usados para náusea ou apetite, mas com potencial em saúde mental."
+      },
+      {
+        "id": "3",
+        "name": "Psicoterapia combinada",
+        "description": "Os produtos derivados da cannabis podem ser um adjuvante, potencializando os efeitos de terapias como a cognitivo-comportamental."
+      },
+      {
+        "id": "4",
+        "name": "Monitoramento",
+        "description": "Devido aos riscos (como efeitos psicoativos do THC ou interações medicamentosas), o uso deve ser supervisionado por um médico."
+      }
+    ],
+    "advice": ""
+  },
+  "patientAdvice": "Se você considera a medicina endocanabinoide para tratar um transtorno mental, agende uma consulta com nosso médico psiquiatra. Informe-se sobre os produtos disponíveis legalmente e evite o uso recreativo sem orientação, pois doses inadequadas podem piorar sintomas como ansiedade ou paranoia. A cannabis não é uma cura universal, mas, com supervisão e acompanhamento adequado, pode ser uma ferramenta valiosa para aliviar o sofrimento e melhorar o bem-estar."
+}

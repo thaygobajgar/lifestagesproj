@@ -9,6 +9,7 @@ export default function QuemSomos() {
         <Text as="h1" color="green-500">
           Quem somos
         </Text>
+
         <div className="w-full max-w-screen-xl mx-auto">
           <Image
             src="/images/foto-clinica.png"
@@ -19,133 +20,170 @@ export default function QuemSomos() {
             priority
           />
         </div>
+
         <div className="flex flex-col justify-center items-center w-full">
           <Text as="h1" color="green-500">
             Nossa clínica
           </Text>
-          <Text as="p">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            condimentum dictum tincidunt. Praesent id ornare ante, sed posuere
-            est. Aliquam eget aliquet sapien. Suspendisse mattis, ante vel
-            bibendum placerat, lectus enim euismod augue, eu laoreet nibh nisi
-            id purus. Aenean vestibulum lacus vel tincidunt mollis.
+          <Text as="p" size="text-sm md:text-base lg:text-base">
+            Olá, seja bem-vindo à nova proposta de tratamento e acompanhamento
+            em Pediatria, Psiquiatria e Saúde Mental. Seja bem-vindo à LIFE
+            STAGES!!! <br></br>Uma clínica com a missão de levar o que há de
+            melhor e mais atual na Saúde Mental e Saúde Infanto-Juvenil. Nossa
+            clínica tem como objetivo proporcionar um atendimento de excelência
+            em saúde mental e saúde infanto-juvenil, oferecendo tratamentos
+            atualizados e baseados em evidências científicas. Trabalhamos para
+            promover o bem-estar integral de nossos pacientes, apoiando-os em
+            cada fase de suas vidas e proporcionando um ambiente acolhedor e
+            seguro.
           </Text>
         </div>
-        <div>
-          <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[40px]">
+
+        {/* DR. MÁRCIO */}
+        <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[40px] mb-[40px]">
+          <div className="relative w-full max-w-[320px] h-[350px]">
             <Image
-              src="/images/drmarcio.png"
+              src="/images/medico1.jpeg"
               alt="Foto do Dr. Márcio Paganatto"
-              width={320}
-              height={350}
-            />{" "}
-            <div className="flex flex-col justify-center items-center w-full gap-[24px]">
-              <Text as="h3" color="green-500">
-                Dr. Márcio Paganatto - Psiquiatra
-              </Text>
-              <Text as="p">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Maecenas condimentum dictum tincidunt. Praesent id ornare ante,
-                sed posuere est. Aliquam eget aliquet sapien. Suspendisse
-                mattis, ante vel bibendum placerat, lectus enim euismod augue,
-                eu laoreet nibh nisi id purus. Aenean vestibulum lacus vel
-                tincidunt mollis.
-              </Text>
-            </div>
+              fill
+              className="object-cover rounded-[8px]"
+            />
+          </div>
+
+          <div className="flex flex-col justify-center items-center md:items-start w-full gap-[24px]">
+            <Text as="h3" color="green-500">
+              Dr. Márcio Christian Paganatto
+            </Text>
+            <Text as="p" size="text-sm md:text-base lg:text-base">
+              Sou natural de Capivari, São Paulo, e cresci na pequena Rafard,
+              onde passei minha infância e adolescência. Filho de pais
+              comerciantes e neto de avós mecânicos, aprendi cedo o valor do
+              trabalho e da dedicação. Estudei em escolas públicas e, em busca
+              do meu sonho, formei-me em Medicina pela Fundação Barceló, em
+              Buenos Aires, Argentina, em 2004, onde também iniciei minha
+              carreira. Revalidei meu diploma pela Universidade Federal do Ceará
+              em 2007 e explorei áreas como cardiologia e nutrologia, com
+              pós-graduações pela PUC-PR e ABRAN. Mas foi na psiquiatria que
+              encontrei minha verdadeira vocação. Concluí minha especialização
+              pela IPEMED em 2014 e, desde então, dedico-me a cuidar da saúde
+              mental com empatia e compromisso. Nunca parei de me atualizar,
+              participando de inúmeros congressos e cursos, se destacando a
+              Preceptoria em Residência Médica pelo Hospital Sírio Libanês, o
+              Harvard Reserch on Psychiatric Trends pela Harvard University
+              (Cambridge, MA) e a Mentoria em Psiquiatria Injetável com a Dra.
+              Inês Gullich, para oferecer o melhor aos meus pacientes.
+            </Text>
           </div>
         </div>
-        <div>
-          <div className="flex flex-col justify-center items-center w-full md:flex-row-reverse md:items-start md:gap-[72px]">
+
+        {/* DRA. ANA */}
+        <div className="flex flex-col justify-center items-center w-full md:flex-row-reverse md:items-start md:gap-[72px] mb-[40px]">
+          <div className="relative w-full max-w-[320px] h-[350px]">
             <Image
-              src="/images/drana.png"
-              alt="Foto do Dr. Ana Meri"
-              width={320}
-              height={350}
+              src="/images/medico3.jpeg"
+              alt="Foto da Dra. Ana Meri"
+              fill
+              className="object-cover rounded-[8px]"
             />
-            <div className="flex flex-col justify-center items-center w-full gap-[24px]">
-              <Text as="h3" color="green-500">
-                Dra. Ana Meri - Pediatria
-              </Text>
-              <Text as="p">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Maecenas condimentum dictum tincidunt. Praesent id ornare ante,
-                sed posuere est. Aliquam eget aliquet sapien. Suspendisse
-                mattis, ante vel bibendum placerat, lectus enim euismod augue,
-                eu laoreet nibh nisi id purus. Aenean vestibulum lacus vel
-                tincidunt mollis.
-              </Text>
-            </div>
+          </div>
+
+          <div className="flex flex-col justify-center items-center md:items-start w-full gap-[24px]">
+            <Text as="h3" color="green-500">
+              Dra. Ana Meri Possan Paganatto
+            </Text>
+            <Text as="p" size="text-sm md:text-base lg:text-base">
+              Eu sou Ana Meri, nascida em David Canabarro, Rio Grande do Sul,
+              filha de mãe professora e de pai caminhoneiro. Cresci em um
+              ambiente de muito esforço e aprendizado, estudando sempre em
+              escolas públicas. Assim como Márcio, formei-me em Medicina pela
+              Fundação Barceló, em Buenos Aires, em 2004, onde também comecei
+              minha trajetória como médica. Revalidei meu diploma pela
+              Universidade Federal do Ceará em 2007 e me especializei em
+              Pediatria Clínica pelo CAEPP (Instituto da Criança/HC-FMUSP),
+              concluindo a especialização em 2011. Sempre presei o aprendizado,
+              mantendo constante atualização dentro da pediatria através de
+              cursos e congressos. Tenho ampla experiência em consultório, além
+              de atuar como médica visitadora e plantonista no Hospital Regional
+              Jorge Rossmann desde março de 2018. Também trabalhei em outros
+              serviços públicos e privados, sempre com paixão por cuidar do
+              crescimento e desenvolvimento das crianças.
+            </Text>
           </div>
         </div>
-        <div>
-          <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[72px]">
+
+        {/* DR(A). NOME */}
+        <div className="flex flex-col justify-center items-center w-full md:flex-row md:items-start md:gap-[72px]">
+          <div className="relative w-full max-w-[320px] h-[350px]">
             <Image
-              src="/images/psicologa.png"
-              alt="Foto do Dra. "
-              width={320}
-              height={350}
+              src="/images/medico2.jpeg"
+              alt="Foto do(a) Psicólogo(a)"
+              fill
+              className="object-cover rounded-[8px]"
             />
-            <div className="flex flex-col justify-center items-center w-full gap-[24px]">
-              <Text as="h3" color="green-500">
-                Dr. NOME NOME - Psicologa
-              </Text>
-              <Text as="p">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Maecenas condimentum dictum tincidunt. Praesent id ornare ante,
-                sed posuere est. Aliquam eget aliquet sapien. Suspendisse
-                mattis, ante vel bibendum placerat, lectus enim euismod augue,
-                eu laoreet nibh nisi id purus. Aenean vestibulum lacus vel
-                tincidunt mollis.
-              </Text>
-            </div>
+          </div>
+
+          <div className="flex flex-col justify-center items-center md:items-start w-full gap-[24px]">
+            <Text as="h3" color="green-500">
+              Camila Pola
+            </Text>
+            <Text as="p" size="text-sm md:text-base lg:text-base">
+              Muito prazer eu sou a Camila Psicóloga formada pela Universidade
+              Católica de Santos/2009, Pós Graduada em Psicopedagogia,
+              Psicologia Clínica e Terapia Cognitivo Comportamental. No
+              consultório a psicóloga apaixonada em transformar vidas,
+              auxiliando as pessoas a compreenderem às situações que estão
+              vivendo no atual momento e com isto aprenderem a tornar a vida
+              mais leve e saudável. Cristã e mamãe do Gustavo ( a minha versão
+              preferida), filha, irmã e tia ( a minha segunda versão preferida).
+              Amo minha família, adoro um café da tarde, valorizo os bons
+              costumes, empática e acolhedora. Minha missão é ser instrumento
+              que mostra que é capaz de transformar o mundo com empatia,
+              dedicação e amor!
+            </Text>
           </div>
         </div>
-        <div className="flex flex-col justify-center items-center w-full md:flex-row md:gap-[24px]">
-          <div className="bg-[#BEE7CF] flex flex-col gap-[16px] py-[40px] justify-center items-center w-full md:rounded-[32px]">
-            <Image
-              src="/icons/rocket.svg"
-              alt="Icone de foguete"
-              width={64}
-              height={64}
-              priority={false}
-            />
-            <Text as="h3" color="green-500">
-              Missão
-            </Text>
-            <Text as="p" className="text-center" color="green-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </Text>
-          </div>
-          <div className="bg-[#BEE7CF] flex flex-col gap-[16px] py-[40px] justify-center items-center w-full md:rounded-[32px]">
-            <Image
-              src="/icons/telescope.svg"
-              alt="Icone de Telescópio"
-              width={64}
-              height={64}
-              priority={false}
-            />
-            <Text as="h3" color="green-500">
-              Visão
-            </Text>
-            <Text as="p" className="text-center" color="green-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </Text>
-          </div>
-          <div className="bg-[#BEE7CF] flex flex-col gap-[16px] py-[40px] justify-center items-center w-full md:rounded-[32px]">
-            <Image
-              src="/icons/hearth.svg"
-              alt="Icone de coração"
-              width={64}
-              height={64}
-              priority={false}
-            />
-            <Text as="h3" color="green-500">
-              Valores
-            </Text>
-            <Text as="p" className="text-center" color="green-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </Text>
-          </div>
+
+        {/* MISSÃO, VISÃO, VALORES */}
+        <div className="flex flex-col justify-center items-center w-full md:flex-row md:gap-[24px] md:items-stretch">
+          {[
+            {
+              icon: "rocket",
+              title: "Missão",
+              description:
+                "Proporcionar um atendimento de excelência em saúde mental e saúde infanto-juvenil, com tratamentos atualizados e baseados em evidências científicas. Nosso foco é apoiar o bem-estar integral dos pacientes com um ambiente acolhedor e seguro.",
+            },
+            {
+              icon: "telescope",
+              title: "Visão",
+              description:
+                "Ser reconhecida como a clínica de referência em saúde mental e saúde infanto-juvenil em Itanhaém, destacando-se pela excelência nos tratamentos, inovação e qualidade no atendimento. Aspiramos a ser um farol de esperança e apoio para todas as famílias que buscam cuidado especializado.",
+            },
+            {
+              icon: "hearth",
+              title: "Valores",
+              description:
+                "Nosso compromisso é com a qualidade, utilizando práticas modernas e eficazes em Saúde Mental e Pediatria. Valorizamos o respeito e a empatia em todas as interações, tratando cada pessoa com dignidade e compreensão. Buscamos continuamente inovação e novas abordagens para melhores resultados. Atuamos com integridade, ética e transparência, e acreditamos no trabalho colaborativo entre profissionais para oferecer um atendimento integral e eficiente.",
+            },
+          ].map(({ icon, title, description }) => (
+            <div
+              key={title}
+              className="bg-[#BEE7CF] flex flex-col gap-[16px] py-[40px] justify-center items-center w-full md:rounded-[32px]"
+            >
+              <Image
+                src={`/icons/${icon}.svg`}
+                alt={`Ícone de ${title.toLowerCase()}`}
+                width={64}
+                height={64}
+                priority={false}
+              />
+              <Text as="h3" color="green-500">
+                {title}
+              </Text>
+              <Text as="p" className="text-center" color="green-500">
+                {description}
+              </Text>
+            </div>
+          ))}
         </div>
       </Section>
     </main>

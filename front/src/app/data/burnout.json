@@ -1,0 +1,73 @@
+{
+  "title": "Síndrome de Burnout",
+  "description": "A Síndrome de Burnout é um estado de esgotamento físico, emocional e mental causado por estresse crônico, geralmente relacionado ao trabalho. Embora não seja classificada como um transtorno mental no sentido tradicional, ela é reconhecida pela Organização Mundial da Saúde (OMS) como um fenômeno ocupacional que pode afetar gravemente a saúde e a qualidade de vida. É comum em profissões exigentes ou com alta pressão, mas qualquer pessoa submetida a sobrecarga prolongada pode desenvolvê-la.",
+  "symptoms": {
+    "description": "O Burnout se manifesta por uma combinação de sinais que refletem exaustão e desânimo:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Esgotamento físico e emocional",
+        "description": "Sensação constante de cansaço, mesmo após descansar, acompanhada de falta de energia para tarefas simples."
+      },
+      {
+        "id": "2",
+        "name": "Despersonalização",
+        "description": "Atitude cínica ou distante em relação ao trabalho ou às pessoas, como tratar colegas ou clientes com indiferença."
+      },
+      {
+        "id": "3",
+        "name": "Baixa realização pessoal",
+        "description": "Sentimento de fracasso, inutilidade ou incapacidade de cumprir objetivos profissionais."
+      },
+      {
+        "id": "4",
+        "name": "Dificuldade de concentração",
+        "description": "Problemas para focar, lembrar de informações ou tomar decisões."
+      },
+      {
+        "id": "5",
+        "name": "Sintomas físicos",
+        "description": "Dores de cabeça, tensões musculares, insônia ou alterações no apetite."
+      },
+      {
+        "id": "6",
+        "name": "Irritabilidade",
+        "description": "Reações exageradas ou impaciência com situações rotineiras."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Para ser considerado Burnout, esses sintomas devem estar diretamente ligados ao contexto laboral e persistir por um período prolongado.",
+  "courseOfDisease": "O Burnout não surge de repente – ele se desenvolve gradualmente, em resposta a estresse contínuo sem pausas adequadas para recuperação. Fatores como excesso de trabalho, falta de reconhecimento, desequilíbrio entre vida pessoal e profissional ou ausência de apoio no ambiente laboral contribuem para seu aparecimento. Se não tratado, pode evoluir para problemas mais graves, como depressão, ansiedade ou doenças físicas (como hipertensão). A boa notícia é que, com intervenção, a maioria das pessoas se recupera completamente.",
+  "treatment": {
+    "description": "O manejo do Burnout exige mudanças no estilo de vida e, em alguns casos, apoio profissional:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "A terapia cognitivo-comportamental (TCC) é eficaz para identificar fontes de estresse, reestruturar pensamentos negativos e desenvolver estratégias de enfrentamento."
+      },
+      {
+        "id": "2",
+        "name": "Mudanças no trabalho",
+        "description": "Reduzir a carga horária, negociar limites claros ou buscar um ambiente mais saudável pode ser essencial."
+      },
+      {
+        "id": "3",
+        "name": "Autocuidado",
+        "description": "Práticas como exercícios físicos, sono regular, hobbies e tempo com amigos ou família ajudam a restaurar o equilíbrio."
+      },
+      {
+        "id": "4",
+        "name": "Medicação",
+        "description": "Em casos de sintomas intensos (como ansiedade ou depressão associada), antidepressivos ou ansiolíticos podem ser prescritos por um psiquiatra, mas não são a base do tratamento."
+      },
+      {
+        "id": "5",
+        "name": "Apoio social",
+        "description": "Conversar com colegas, supervisores ou entes queridos sobre o problema pode aliviar a sensação de isolamento."
+      }
+    ],
+    "advice": "Se o esgotamento for extremo, afastamento temporário do trabalho pode ser necessário."
+  },
+  "patientAdvice": "Se você sente que está “no limite” por causa do trabalho, não ignore os sinais – o Burnout é um alerta do corpo e da mente. Agende uma consulta com nosso médico psiquiatra ou psicólogo para avaliar a gravidade e receber orientação e tratamento. Comece dando pequenos passos: tire pausas regulares, estabeleça limites e peça ajuda quando precisar. Fale com seu empregador sobre ajustes, se possível. Lembre-se: cuidar de si não é fraqueza, mas uma necessidade. Com tempo e suporte, é possível sair desse ciclo e recuperar o bem-estar."
+}

@@ -13,7 +13,7 @@ interface TreatmentCardProps {
 export function TreatmentCard({ title, href, imageSrc }: TreatmentCardProps) {
   return (
     <Link href={href}>
-      <div className="relative w-[182px] h-[182px] overflow-hidden group rounded-[12px]">
+      <div className="relative w-[182px] h-[182px] overflow-hidden group rounded-[12px] mx-auto">
         <Image src={imageSrc} alt={title} fill className="object-cover" />
 
         <div className="absolute inset-0 bg-[#3F3F3F]/80 group-hover:bg-[#2EA8C0]/60 transition-colors duration-300" />

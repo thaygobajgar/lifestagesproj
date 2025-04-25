@@ -1,0 +1,107 @@
+{
+  "title": "Neonatologia em Consultório: Os Primeiros Dias da Criança",
+  "description": "A neonatologia em consultório é o acompanhamento especializado do bebê nos primeiros 28 dias de vida – o chamado período neonatal – realizado por um pediatra. Esse cuidado vai além do hospital, trazendo suporte contínuo após a alta, com foco no crescimento, desenvolvimento e adaptação do recém-nascido ao novo ambiente. É uma fase crítica, em que a atenção especializada ajuda a garantir a saúde do bebê e a tranquilidade dos pais.",
+  "definition": {
+    "title": "O que é Neonatologia em Consultório?",
+    "description": "Trata-se do seguimento ambulatorial do recém-nascido, envolvendo:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Avaliação inicial",
+        "description": "Checagem de peso, comprimento, reflexos e sinais vitais logo após a alta hospitalar."
+      },
+      {
+        "id": "2",
+        "name": "Monitoramento do desenvolvimento",
+        "description": "Observação de marcos como sucção, ganho de peso e resposta a estímulos."
+      },
+      {
+        "id": "3",
+        "name": "Triagens",
+        "description": "Supervisão de exames como o teste do pezinho, da orelhinha e do olhinho, essenciais para detectar problemas precocemente."
+      },
+      {
+        "id": "4",
+        "name": "Orientação aos pais",
+        "description": "Esclarecimentos sobre aleitamento, sono, higiene e sinais de alerta."
+      }
+    ],
+    "advice": "O pediatra atua como um guia, ajustando o cuidado às necessidades específicas de cada bebê, especialmente prematuros ou com condições especiais."
+  },
+  "benefits": {
+    "title": "Importância da Neonatologia em Consultório",
+    "description": "Os primeiros dias de vida são decisivos:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Prevenção e detecção precoce",
+        "description": "Identificar icterícia (amarelão), infecções ou dificuldades na alimentação antes que se agravem."
+      },
+      {
+        "id": "2",
+        "name": "Crescimento saudável",
+        "description": "Garantir que o bebê recupere o peso perdido nos primeiros dias e siga um padrão adequado."
+      },
+      {
+        "id": "3",
+        "name": "Apoio ao aleitamento",
+        "description": "Orientar a mãe para superar desafios como pega incorreta ou baixa produção de leite."
+      },
+      {
+        "id": "4",
+        "name": "Tranquilidade familiar",
+        "description": "Reduzir a ansiedade dos pais com informações claras e um plano de cuidados, especialmente para quem é de primeira viagem."
+      }
+    ],
+    "advice": "Esse acompanhamento especializado diminui complicações e fortalece a base para o desenvolvimento futuro."
+  },
+  "developmentPhases": {
+    "title": "Curso do Período Neonatal",
+    "description": "O período neonatal (0 a 28 dias) é marcado por mudanças rápidas:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Primeira semana",
+        "description": "Adaptação à vida fora do útero, perda inicial de peso (normal até 10%) e início da amamentação."
+      },
+      {
+        "id": "2",
+        "name": "Segunda a quarta semana",
+        "description": "Ganho de peso constante (20-30g por dia), consolidação do sono e início de interação básica, como seguir o olhar."
+      }
+    ],
+    "advice": "Na Life Stages, nossa pediatra acompanha essas etapas em consultas frequentes – geralmente uma na primeira semana e outra no final do mês – ajustando o cuidado conforme o bebê evolui."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Primeira consulta",
+        "description": "Leve seu bebê ao pediatra logo após a alta, entre o 3º e 7º dia de vida, para uma avaliação completa."
+      },
+      {
+        "id": "2",
+        "name": "Fique atento",
+        "description": "Observe a cor da pele (amarelada pode indicar icterícia), a frequência das mamadas e o padrão de fezes e urina. Qualquer mudança brusca deve ser relatada."
+      },
+      {
+        "id": "3",
+        "name": "Aleitamento",
+        "description": "Priorize o leite materno e peça ajuda se houver dificuldades – nossa pediatra pode indicar técnicas."
+      },
+      {
+        "id": "4",
+        "name": "Sono seguro",
+        "description": "Coloque o bebê para dormir de barriga para cima, em superfície firme, sem travesseiros ou cobertores soltos."
+      },
+      {
+        "id": "5",
+        "name": "Confie no pediatra",
+        "description": "Anote suas dúvidas (sobre cólicas, choro ou banho, por exemplo) e leve à consulta. Na Life Stages Dra. Ana Meri está aqui para apoiar você e seu bebê."
+      }
+    ],
+    "advice": "A neonatologia em consultório é o primeiro passo para um cuidado contínuo. Com atenção especializada e o envolvimento dos pais, o recém-nascido ganha uma base sólida para crescer forte e saudável. Agende a consulta do seu bebê!"
+  }
+}

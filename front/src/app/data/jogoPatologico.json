@@ -1,0 +1,68 @@
+{
+  "title": "Jogo Patológico",
+  "description": "O Transtorno de Jogo Patológico, também conhecido como jogo compulsivo ou ludopatia, é uma condição de saúde mental caracterizada pela incapacidade de resistir ao impulso de jogar, mesmo diante de consequências negativas. Classificado como um transtorno de controle de impulsos e semelhante a dependências químicas, ele envolve apostas frequentes – como cassinos, loterias, jogos online ou apostas esportivas – que prejudicam a vida financeira, social e emocional da pessoa. É mais do que um \"hábito\"; é uma necessidade incontrolável que causa sofrimento.",
+  "symptoms": {
+    "description": "Os principais sinais incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Preocupação constante",
+        "description": "Pensar o tempo todo em jogos, planejar apostas ou lembrar de experiências passadas."
+      },
+      {
+        "id": "2",
+        "name": "Perda de controle",
+        "description": "Apostar quantias cada vez maiores ou por mais tempo do que o planejado, sem conseguir parar."
+      },
+      {
+        "id": "3",
+        "name": "Tolerância",
+        "description": "Necessidade de aumentar as apostas para sentir a mesma excitação."
+      },
+      {
+        "id": "4",
+        "name": "Abstinência emocional",
+        "description": "Irritabilidade, ansiedade ou inquietação quando tenta reduzir ou abandonar o jogo."
+      },
+      {
+        "id": "5",
+        "name": "Fuga",
+        "description": "Usar o jogo para escapar de problemas ou aliviar sentimentos como culpa ou estresse."
+      },
+      {
+        "id": "6",
+        "name": "Consequências negativas",
+        "description": "Perdas financeiras graves, dívidas, mentiras para encobrir o comportamento ou problemas em relacionamentos e trabalho."
+      }
+    ]
+  },
+  "diagnosticCriteria": "",
+  "courseOfDisease": "O transtorno pode começar em qualquer idade, mas frequentemente surge na adolescência ou idade adulta jovem, sendo mais comum em homens. Fatores como predisposição genética, personalidade impulsiva, estresse ou transtornos associados (como depressão ou ansiedade) aumentam o risco. Sem intervenção, o jogo patológico tende a progredir, levando a crises financeiras, isolamento social e até ideação suicida em casos graves. Muitos tentam parar sozinhos, mas recaídas são frequentes sem apoio adequado.",
+  "treatment": {
+    "description": "O manejo do transtorno exige uma abordagem integrada:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "A terapia cognitivo-comportamental (TCC) é a mais eficaz, ajudando a identificar gatilhos, mudar crenças sobre o jogo (como “vou me recuperar apostando mais”) e desenvolver estratégias de controle."
+      },
+      {
+        "id": "2",
+        "name": "Grupos de apoio",
+        "description": "Programas como Jogadores Anônimos (JA) oferecem suporte comunitário e um espaço seguro para compartilhar experiências."
+      },
+      {
+        "id": "3",
+        "name": "Medicação",
+        "description": "Medicamentos que auxiliam no controle de impulsos, antidepressivos ou estabilizadores de humor podem contribuir para o tratamento, os quais devem ser usados sob prescrição psiquiátrica."
+      },
+      {
+        "id": "4",
+        "name": "Gestão financeira",
+        "description": "Envolver familiares ou profissionais para limitar o acesso a dinheiro pode ajudar na fase inicial."
+      }
+    ],
+    "advice": "O sucesso depende do comprometimento da pessoa e do suporte ao redor."
+  },
+  "patientAdvice": "Se você sente que o jogo está fora de controle, reconheça que isso é uma condição tratável, não uma fraqueza. Agende uma consulta com nosso médico psiquiatra ou psicólogo para uma avaliação – falar abertamente é o primeiro passo. Evite ambientes ou situações que estimulem o jogo, como sites de apostas ou companhia de outros jogadores. Peça ajuda a alguém de confiança para gerenciar suas finanças enquanto se recupera. Parar pode ser difícil, mas com apoio profissional e determinação, é possível retomar o controle da sua vida."
+}

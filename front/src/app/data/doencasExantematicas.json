@@ -1,0 +1,112 @@
+{
+  "title": "Doenças Exantemáticas",
+  "description": "As doenças exantemáticas são infecções, geralmente virais, que se manifestam com erupções na pele (exantemas), como manchas, bolhas ou vermelhidão, acompanhadas de sintomas como febre e mal-estar. Comuns na infância, elas incluem condições como sarampo, rubéola, varicela (catapora) e roséola. Embora muitas sejam benignas, o acompanhamento pediátrico especializado é essencial para um diagnóstico preciso, manejo adequado e proteção do desenvolvimento da criança, especialmente com a prevenção por vacinas.",
+  "definition": {
+    "title": "O que são Doenças Exantemáticas?",
+    "description": "São infecções que afetam principalmente crianças, causadas por vírus ou, mais raramente, bactérias (como no caso da escarlatina). O termo \"exantema\" refere-se às lesões cutâneas características, que podem variar:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Sarampo",
+        "description": "Manchas vermelhas que começam no rosto e se espalham, com febre alta e tosse."
+      },
+      {
+        "id": "2",
+        "name": "Rubéola",
+        "description": "Manchas rosadas leves, febre baixa e gânglios inchados."
+      },
+      {
+        "id": "3",
+        "name": "Varicela",
+        "description": "Bolhas que coçam, evoluindo para crostas, com febre moderada."
+      },
+      {
+        "id": "4",
+        "name": "Roséola",
+        "description": "Febre alta por 3-4 dias, seguida de manchas rosadas ao sumir a febre."
+      }
+    ],
+    "advice": "Essas doenças são contagiosas, transmitidas por gotículas respiratórias ou contato direto, e tendem a ocorrer em surtos, especialmente em ambientes como creches."
+  },
+  "benefits": {
+    "title": "Importância do Cuidado Especializado",
+    "description": "O acompanhamento pediátrico é crucial:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Diagnóstico correto",
+        "description": "Nem todo exantema é igual – o pediatra diferencia doenças exantemáticas de alergias ou outras condições, evitando tratamentos desnecessários."
+      },
+      {
+        "id": "2",
+        "name": "Prevenção de complicações",
+        "description": "Sarampo pode levar a pneumonia, e varicela a infecções de pele, mas o cuidado precoce reduz riscos."
+      },
+      {
+        "id": "3",
+        "name": "Crescimento e bem-estar",
+        "description": "Aliviar sintomas e monitorar a recuperação garante que a criança retome seu desenvolvimento sem interrupções."
+      },
+      {
+        "id": "4",
+        "name": "Vacinação",
+        "description": "O pediatra reforça a importância de vacinas (como tríplice viral para sarampo e rubéola) que previnem essas doenças."
+      }
+    ],
+    "advice": "Crianças bem acompanhadas têm menos sequelas e se recuperam mais rápido."
+  },
+  "developmentPhases": {
+    "title": "Curso das Doenças Exantemáticas",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Duração",
+        "description": "Geralmente duram de 5 a 10 dias, com a febre precedendo ou acompanhando o exantema, que some sem deixar marcas (exceto em casos complicados, como varicela)."
+      },
+      {
+        "id": "2",
+        "name": "Contágio",
+        "description": "O risco é maior antes e durante o aparecimento das lesões, exigindo isolamento temporário."
+      },
+      {
+        "id": "3",
+        "name": "Evolução",
+        "description": "A maioria resolve sozinha, mas complicações raras (encefalite, infecções secundárias) reforçam a necessidade de supervisão médica."
+      }
+    ],
+    "advice": "O pediatra avalia a gravidade e orienta o manejo em cada caso."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Sinais de alerta",
+        "description": "Procure o pediatra se houver febre acima de 38°C por mais de 3 dias, dificuldade para respirar, sonolência excessiva ou lesões que piorem (com pus ou inchaço)."
+      },
+      {
+        "id": "2",
+        "name": "Cuidados em casa",
+        "description": "Mantenha a criança hidratada, ofereça alimentos leves e evite coçar as lesões (use luvas ou corte as unhas na varicela)."
+      },
+      {
+        "id": "3",
+        "name": "Isolamento",
+        "description": "Evite contato com outras crianças ou gestantes (no caso de rubéola) até o pediatra liberar."
+      },
+      {
+        "id": "4",
+        "name": "Alívio dos sintomas",
+        "description": "Banhos mornos e medicamentos como antitérmicos (prescritos pelo médico) ajudam no conforto – nunca use ácido acetilsalicílico (AAS) em doenças virais."
+      },
+      {
+        "id": "5",
+        "name": "Prevenção",
+        "description": "Siga o calendário de vacinação e informe o pediatra sobre qualquer caso na escola ou família."
+      }
+    ],
+    "advice": "As doenças exantemáticas são parte da infância, mas com cuidado especializado, passam sem comprometer o crescimento ou a saúde da criança. Nossa pediatra é sua parceira para enfrentar esses desafios com segurança e confiança."
+  }
+}

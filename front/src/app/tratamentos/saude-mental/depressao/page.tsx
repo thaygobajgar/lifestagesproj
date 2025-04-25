@@ -11,7 +11,7 @@ export default function DepressaoPage() {
       <TreatmentContent
         data={depressionData}
         imageSrc="/images/banner-depressao.png"
-        imageAlt="Mulher sentada de frente à janela"
+        imageAlt="Pessoa sentada de frente à janela"
       />
       <Link href="/agendamento">
         <Button className="py-2 px-4 text-white bg-gradient-to-r from-aqua-500 via-transparent to-green-500 rounded-[32px]">

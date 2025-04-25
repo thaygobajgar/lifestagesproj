@@ -37,7 +37,7 @@
       {
         "id": "7",
         "name": "Sentimentos de culpa ou inutilidade",
-        "description": "Autocrítica excessiva ou sensação de ser um bardo para os outros."
+        "description": "Autocrítica excessiva ou sensação de ser um fardo para os outros."
       },
       {
         "id": "8",
@@ -46,7 +46,7 @@
       }
     ]
   },
-  "subTitle": "Para que seja diagnosticada como depressão, esses sintomas precisam estar presentes por pelo menos duas semanas e causar sofrimento significativo ou prejuízo no funcionamento da pessoa.",
+  "diagnosticCriteria": "Para que seja diagnosticada como depressão, esses sintomas precisam estar presentes por pelo menos duas semanas e causar sofrimento significativo ou prejuízo no funcionamento da pessoa.",
   "courseOfDisease": "A depressão pode se manifestar de forma leve, moderada ou grave, e seu curso varia. Algumas pessoas experimentam um único episódio depressivo na vida, enquanto outras podem ter episódios recorrentes, caracterizando um transtorno crônico. Fatores como estresse, eventos traumáticos, predisposição genética e desequilíbrios químicos no cérebro (como na serotonina e dopamina) podem contribuir para o surgimento da depressão. Sem tratamento, os sintomas podem se prolongar por meses ou anos, afetando gravemente a qualidade de vida.",
   "treatment": {
     "description": "A depressão é tratável, e a combinação de abordagens costuma ser mais eficaz. As principais opções incluem:",
@@ -71,7 +71,8 @@
         "name": "Suporte social",
         "description": "Conversar com amigos, familiares ou participar de grupos de apoio pode aliviar o isolamento."
       }
-    ]
+    ],
+    "advice": "Em casos graves, como depressão com risco de suicídio, pode ser necessária internação ou intervenções mais intensivas, como o uso medicamentos injetáveis ou ainda o uso de eletroconvulsoterapia (ECT), indicada em situações específicas."
   },
   "patientAdvice": "Se você suspeita que está com depressão, o primeiro passo é buscar ajuda. Agende uma avaliação profissional, converse com nosso médico psiquiatra ou psicólogo. Não se culpe pelos sintomas – a depressão não é sinal de fraqueza, mas uma condição médica que merece cuidado. Seja paciente com o tratamento, pois os resultados podem levar algumas semanas para aparecer. Enquanto isso, tente manter uma rotina simples, evite o isolamento e peça apoio a pessoas de confiança. Você não está sozinho, e há caminhos para se sentir melhor."
 }

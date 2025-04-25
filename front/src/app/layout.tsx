@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
-      <body className="p-8 font-sans">
+      <body className="p-8 font-sans min-h-[100vh]">
         <header className="relative mb-8 bg-[#EEF2EB] p-4">
           <div className="flex items-center justify-between w-full max-w-screen-xl mx-auto">
             <div className="flex items-center gap-4">
@@ -59,7 +59,7 @@ export default function RootLayout({
 
         <>{children}</>
 
-        <footer className="w-full">
+        <footer className="w-full mt-[24px]">
           <div className="bg-[#BEE7CF]  w-full ">
             <div className="max-w-screen-xl mx-auto flex flex-col md:flex-row items-center justify-between">
               <div className="flex flex-col items-center gap-4 p-[32px]">
@@ -76,7 +76,7 @@ export default function RootLayout({
               <ul className="flex flex-col gap-[12px]">
                 <li>
                   <Link href="/" className="text-green-500">
-                    Página Inicial
+                    Página Inicialsasasasasa
                   </Link>
                 </li>
                 <li>
@@ -103,13 +103,19 @@ export default function RootLayout({
                   height={32}
                   className="inline-block mr-2"
                 />{" "}
-                <img
-                  src="/icons/WhatsApp.svg"
-                  alt="WhatsApp"
-                  width={32}
-                  height={32}
-                  className="inline-block mr-2"
-                />
+                <Link
+                  href="https://wa.me/551334225805?text=Olá,%20gostaria%20de%20mais%20informações!"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/icons/WhatsApp.svg"
+                    alt="WhatsApp"
+                    width={32}
+                    height={32}
+                    className="inline-block mr-2"
+                  />
+                </Link>
               </div>
             </div>
           </div>

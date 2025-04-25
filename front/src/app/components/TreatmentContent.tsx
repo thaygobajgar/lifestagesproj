@@ -11,15 +11,21 @@ interface SymptomOrTreatmentItem {
 interface TreatmentData {
   title: string;
   description: string;
+  howItWorks?: {
+    description?: string;
+    list?: SymptomOrTreatmentItem[];
+    advice?: string;
+  };
   symptoms: {
     description: string;
     list: SymptomOrTreatmentItem[];
   };
-  subTitle: string;
-  courseOfDisease: string;
+  diagnosticCriteria?: string;
+  courseOfDisease?: string;
   treatment: {
     description: string;
     list: SymptomOrTreatmentItem[];
+    advice?: string;
   };
   patientAdvice: string;
 }
@@ -57,7 +63,7 @@ export function TreatmentContent({
       </div>
 
       <div className="flex flex-col gap-[24px]">
-        <Text as="h2">Sintomas da {data.title.toLowerCase()}</Text>
+        <Text as="h2">Sintomas</Text>
         <Text as="p">{data.symptoms.description}</Text>
       </div>
 
@@ -75,32 +81,47 @@ export function TreatmentContent({
             </Text>
           </li>
         ))}
-        <Text as="p">{data.subTitle}</Text>
+        <Text as="p">{data.diagnosticCriteria}</Text>
       </ul>
 
-      <div className="flex flex-col gap-[24px]">
-        <Text as="h2">Curso da doença</Text>
-        <Text as="p">{data.courseOfDisease}</Text>
-      </div>
+      {data.courseOfDisease && (
+        <div className="flex flex-col gap-[24px]">
+          <Text as="h2">Curso da doença</Text>
+          <Text as="p">{data.courseOfDisease}</Text>
+        </div>
+      )}
 
       <div className="flex flex-col gap-[24px]">
-        <Text as="h2">Tratamento</Text>
-        <Text as="p">{data.treatment.description}</Text>
-
-        <ul>
+        {data.treatment.description && (
+          <>
+            <Text as="h2">Tratamento</Text>
+            <Text as="p">{data.treatment.description}</Text>
+          </>
+        )}
+        <ul className="flex flex-col gap-[24px]">
           {data.treatment.list.map((item) => (
-            <li key={item.id}>
+            <li key={item.id} className="flex gap-[4px]">
+              <Text as="span" color="blue-500">
+                •{" "}
+              </Text>
               <Text as="p">
-                <span>{item.name}: </span>
+                <Text as="span" color="blue-500" weight="bold">
+                  {item.name}:
+                </Text>{" "}
                 {item.description}
               </Text>
             </li>
           ))}
+          <Text as="p">{data.treatment?.advice}</Text>
         </ul>
 
         <div>
-          <Text as="h3">Orientação aos pacientes</Text>
-          <Text as="p">{data.patientAdvice}</Text>
+          {data.patientAdvice && (
+            <>
+              <Text as="h3">Orientação aos pacientes</Text>
+              <Text as="p">{data.patientAdvice}</Text>
+            </>
+          )}
         </div>
       </div>
     </Section>

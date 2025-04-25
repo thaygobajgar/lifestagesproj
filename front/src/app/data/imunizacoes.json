@@ -1,0 +1,107 @@
+{
+  "title": "Imunizações: Importância e Orientações para a Saúde da Criança",
+  "description": "As imunizações, popularmente conhecidas como vacinas, são uma das ferramentas mais eficazes da medicina para proteger as crianças contra doenças graves e potencialmente fatais. Elas estimulam o sistema imunológico a reconhecer e combater vírus e bactérias, prevenindo infecções antes que ocorram. O acompanhamento pediátrico especializado é essencial para garantir que o calendário de vacinação seja seguido, promovendo o crescimento saudável e o desenvolvimento seguro da criança.",
+  "definition": {
+    "title": "O que são Imunizações?",
+    "description": "As vacinas são preparações feitas a partir de micro-organismos enfraquecidos, inativados ou partes deles, administradas para \"treinar\" o corpo a se defender de doenças específicas.",
+    "list": [
+      {
+        "id": "1",
+        "name": "Programa Nacional de Imunizações (PNI)",
+        "description": "Oferece vacinas gratuitas contra doenças como poliomielite, sarampo, meningite e hepatite, entre outras, porém existem vacinas que não são oferecidas pelo SUS."
+      },
+      {
+        "id": "2",
+        "name": "Etapas da vacinação",
+        "description": "As vacinas são aplicadas em idades específicas, desde o nascimento até a adolescência, conforme o desenvolvimento do sistema imunológico da criança."
+      }
+    ],
+    "advice": ""
+  },
+  "benefits": {
+    "title": "Importância das Imunizações",
+    "description": "Vacinar é um ato de cuidado com a criança e a comunidade:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Proteção individual",
+        "description": "Previne doenças que podem causar sequelas permanentes (como surdez ou paralisia) ou até levar à morte."
+      },
+      {
+        "id": "2",
+        "name": "Imunidade coletiva",
+        "description": "Quanto mais pessoas vacinadas, menor a circulação de doenças, protegendo até quem não pode se vacinar (como bebês muito novos ou crianças com certas condições de saúde)."
+      },
+      {
+        "id": "3",
+        "name": "Prevenção de surtos",
+        "description": "Evita o retorno de doenças controladas, como o sarampo, que pode reaparecer se as taxas de vacinação caírem."
+      },
+      {
+        "id": "4",
+        "name": "Desenvolvimento saudável",
+        "description": "Crianças protegidas têm menos internações e interrupções no crescimento, permitindo que se desenvolvam plenamente."
+      }
+    ],
+    "advice": "O pediatra desempenha um papel crucial ao orientar os pais, esclarecer dúvidas e monitorar reações após as doses."
+  },
+  "developmentPhases": {
+    "title": "Curso das Imunizações",
+    "description": "O calendário de vacinação segue etapas estratégicas:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Ao nascer",
+        "description": "BCG (tuberculose) e hepatite B."
+      },
+      {
+        "id": "2",
+        "name": "2 a 6 meses",
+        "description": "Vacinas como pentavalente (difteria, tétano, coqueluche, haemophilus e hepatite B), pólio e pneumocócica, com doses reforçadas."
+      },
+      {
+        "id": "3",
+        "name": "1 ano",
+        "description": "Tríplice viral (sarampo, caxumba e rubéola) e varicela."
+      },
+      {
+        "id": "4",
+        "name": "Reforços",
+        "description": "Doses adicionais na infância e adolescência (ex.: HPV e meningite ACWY) garantem proteção contínua."
+      }
+    ],
+    "advice": "O pediatra adapta o esquema se houver atrasos ou condições especiais, como prematuridade."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Siga o calendário",
+        "description": "Leve a carteira de vacinação a todas as consultas pediátricas para verificar as datas. Atrasos podem deixar a criança vulnerável."
+      },
+      {
+        "id": "2",
+        "name": "Prepare-se para as doses",
+        "description": "Explique ao seu filho, se ele for maior, que a vacina é um \"superpoder\" para protegê-lo. Após a aplicação, ofereça colo e conforto – reações leves como febre ou dor local são normais e passageiras."
+      },
+      {
+        "id": "3",
+        "name": "Confie na ciência",
+        "description": "Pergunte ao pediatra sobre mitos ou dúvidas (como \"vacinas causam doenças\"). As vacinas são seguras e testadas rigorosamente."
+      },
+      {
+        "id": "4",
+        "name": "Fique atento",
+        "description": "Observe sinais como febre alta persistente ou inchaço incomum após a vacina e contate nossa médica se necessário."
+      },
+      {
+        "id": "5",
+        "name": "Vacine-se também",
+        "description": "Pais e cuidadores imunizados (ex.: contra gripe e coqueluche) ajudam a proteger bebês ainda não vacinados."
+      }
+    ],
+    "advice": "As imunizações são um pilar do cuidado especializado na infância. Com o apoio da nossa pediatra e o compromisso dos pais, elas garantem que a criança cresça forte, protegida e pronta para explorar o mundo com segurança."
+  }
+}

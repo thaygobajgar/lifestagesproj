@@ -48,7 +48,7 @@ export default function TratamentosPage() {
             </div>
             <div>
               <Link
-                href="/tagendamento"
+                href="/agendamento"
                 className="inline-flex gap-[14px] text-[green-500] border-2 border-green-500 rounded-[32px] px-[20px] py-[8px]"
               >
                 <Text weight="bold" color="green-500">

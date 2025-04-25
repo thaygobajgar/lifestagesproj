@@ -1,0 +1,73 @@
+{
+  "title": "Ansiedade",
+  "description": "A ansiedade é uma reação natural do corpo e da mente a situações de perigo ou estresse, como um mecanismo de alerta que nos prepara para agir. No entanto, quando ela se torna intensa, frequente ou desproporcional às circunstâncias, pode ser classificada como um transtorno de ansiedade. Esses transtornos são comuns e afetam milhões de pessoas, interferindo na vida cotidiana, mas existem tratamentos eficazes para aliviar os sintomas e melhorar a qualidade de vida.",
+  "symptoms": {
+    "description": "Os transtornos de ansiedade podem se manifestar de diferentes formas, dependendo do tipo (como transtorno de ansiedade generalizada, fobias, transtorno de pânico ou transtorno obsessivo-compulsivo). Os sintomas mais comuns incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Preocupação excessiva",
+        "description": "Pensamentos constantes e difíceis de controlar sobre problemas reais ou imaginários."
+      },
+      {
+        "id": "2",
+        "name": "Inquietação",
+        "description": "Sensação de nervosismo ou incapacidade de relaxar, muitas vezes acompanhada de agitação física."
+      },
+      {
+        "id": "3",
+        "name": "Sintomas físicos",
+        "description": "Coração acelerado, suor excessivo, tremores, falta de ar, boca seca, náuseas ou tensão muscular."
+      },
+      {
+        "id": "4",
+        "name": "Fadiga",
+        "description": "Cansaço constante, mesmo sem esforço físico, devido ao desgaste mental."
+      },
+      {
+        "id": "5",
+        "name": "Dificuldade de concentração",
+        "description": "Problemas para manter o foco ou sensação de \"mente em branco\"."
+      },
+      {
+        "id": "6",
+        "name": "Alterações no sono",
+        "description": "Insônia, dificuldade para adormecer ou sono interrompido por preocupações."
+      },
+      {
+        "id": "7",
+        "name": "Crises de pânico",
+        "description": "Em alguns casos, episódios súbitos de medo intenso, com sensação de perda de controle ou de que algo terrível está prestes a acontecer."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Esses sintomas podem variar em intensidade e duração, mas, para caracterizar um transtorno, geralmente persistem por semanas ou meses e causam prejuízo significativo na vida da pessoa.",
+  "courseOfDisease": "A ansiedade pode surgir em qualquer idade e ser desencadeada por fatores como estresse prolongado, traumas, predisposição genética ou até desequilíbrios químicos no cérebro. Sem tratamento, os transtornos de ansiedade tendem a se manter ou piorar ao longo do tempo, especialmente se a pessoa evita situações que desencadeiam os sintomas (como lugares ou interações sociais). Em alguns casos, a ansiedade pode coexistir com outros problemas, como depressão, tornando o quadro mais complexo.",
+  "treatment": {
+    "description": "Os transtornos de ansiedade respondem bem a intervenções específicas, que podem ser combinadas para melhores resultados:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "A terapia cognitivo-comportamental (TCC) é uma das abordagens mais eficazes, ajudando a identificar padrões de pensamento ansiosos e desenvolver estratégias para enfrentá-los. Técnicas de exposição gradual também são usadas em casos de fobias."
+      },
+      {
+        "id": "2",
+        "name": "Medicação",
+        "description": "Ansiedade pode ser tratada com ansiolíticos, antidepressivos e outros medicamentos, que ajudam a regular o cérebro a longo prazo. O uso deve ser orientado por um psiquiatra."
+      },
+      {
+        "id": "3",
+        "name": "Técnicas de relaxamento",
+        "description": "Exercícios de respiração, meditação e mindfulness podem reduzir os sintomas no dia a dia."
+      },
+      {
+        "id": "4",
+        "name": "Estilo de vida",
+        "description": "Atividade física regular, sono adequado e redução de cafeína ou álcool ajudam a controlar a ansiedade."
+      }
+    ],
+    "advice": "Em situações graves, como crises de pânico frequentes, pode ser necessário um acompanhamento mais intensivo."
+  },
+  "patientAdvice": "Se você sente que a ansiedade está atrapalhando sua vida, não hesite em buscar ajuda com nosso psiquiatra ou psicólogo. Reconhecer o problema é o primeiro passo para superá-lo. Tente anotar o que sente e quando os sintomas aparecem – isso pode facilitar o diagnóstico. Evite se isolar e procure apoio em pessoas próximas. Práticas simples, como respirar fundo ou focar no presente, podem ajudar em momentos de crise. Lembre-se: ansiedade é uma condição tratável, e você não precisa enfrentá-la sozinho."
+}

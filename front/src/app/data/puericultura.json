@@ -1,0 +1,117 @@
+{
+  "title": "Puericultura: Crescimento Saudável da Criança",
+  "description": "A puericultura é a área da pediatria dedicada ao acompanhamento do crescimento e desenvolvimento da criança, desde o nascimento até a adolescência, com o objetivo de promover saúde e prevenir doenças. Mais do que apenas tratar problemas, ela foca no cuidado integral – físico, emocional e social – para garantir que a criança alcance seu pleno potencial. Esse acompanhamento especializado é essencial para identificar precocemente qualquer desvio e orientar os pais ou cuidadores em cada etapa.",
+  "definition": {
+    "title": "O que é Puericultura?",
+    "description": "A puericultura envolve consultas regulares com o pediatra para monitorar:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Crescimento físico",
+        "description": "Peso, altura e perímetro cefálico, comparados a curvas de referência."
+      },
+      {
+        "id": "2",
+        "name": "Desenvolvimento",
+        "description": "Marcos como sentar, andar, falar e interagir, verificando se estão dentro do esperado para a idade."
+      },
+      {
+        "id": "3",
+        "name": "Prevenção",
+        "description": "Vacinação, exames de triagem (como teste do pezinho) e orientações sobre alimentação, sono e segurança."
+      },
+      {
+        "id": "4",
+        "name": "Saúde global",
+        "description": "Avaliação do bem-estar emocional, hábitos familiares e fatores ambientais que influenciam a criança."
+      }
+    ],
+    "advice": "É um trabalho conjunto entre o pediatra e a família, adaptado às necessidades individuais de cada criança."
+  },
+  "benefits": {
+    "title": "Importância da Puericultura",
+    "description": "O cuidado especializado na infância é um investimento para a vida toda:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Detecção precoce",
+        "description": "Identificar atrasos no desenvolvimento, problemas de visão, audição ou condições como anemia antes que se agravem."
+      },
+      {
+        "id": "2",
+        "name": "Promoção da saúde",
+        "description": "Garantir uma nutrição adequada, como o aleitamento materno exclusivo até os 6 meses, e incentivar hábitos saudáveis desde cedo."
+      },
+      {
+        "id": "3",
+        "name": "Prevenção de riscos",
+        "description": "Orientar sobre acidentes domésticos, exposição excessiva a telas ou situações que possam afetar o desenvolvimento."
+      },
+      {
+        "id": "4",
+        "name": "Apoio aos pais",
+        "description": "Esclarecer dúvidas sobre fases como dentição, introdução alimentar ou birras, reduzindo ansiedades e fortalecendo o vínculo familiar."
+      }
+    ],
+    "advice": "Crianças acompanhadas por puericultura têm menos complicações de saúde e maior chance de se tornarem adultos saudáveis."
+  },
+  "developmentPhases": {
+    "title": "Curso do Crescimento e Desenvolvimento",
+    "description": "Cada fase da infância tem características próprias:",
+    "list": [
+      {
+        "id": "1",
+        "name": "0 a 2 anos",
+        "description": "Crescimento rápido, início da fala e primeiros passos. O pediatra monitora marcos e a introdução de alimentos."
+      },
+      {
+        "id": "2",
+        "name": "2 a 5 anos",
+        "description": "Desenvolvimento motor e cognitivo acelerado, com socialização na escola. Atenção a linguagem e comportamento."
+      },
+      {
+        "id": "3",
+        "name": "6 a 12 anos",
+        "description": "Crescimento mais estável, foco em aprendizado e saúde emocional, como autoestima e adaptação escolar."
+      },
+      {
+        "id": "4",
+        "name": "Adolescência",
+        "description": "Mudanças hormonais e psicológicas exigem acompanhamento para puberdade, nutrição e bem-estar mental."
+      }
+    ],
+    "advice": "O pediatra ajusta as orientações conforme a idade e o contexto da criança."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Consultas regulares",
+        "description": "Leve seu filho ao pediatra mesmo sem sintomas – a prevenção é o melhor remédio. Siga o calendário de visitas recomendado."
+      },
+      {
+        "id": "2",
+        "name": "Observe com atenção",
+        "description": "Note mudanças no apetite, sono, humor ou habilidades, e relate ao médico. Você conhece seu filho melhor do que ninguém."
+      },
+      {
+        "id": "3",
+        "name": "Crie rotinas",
+        "description": "Horários consistentes para alimentação, sono e brincadeiras ajudam no desenvolvimento saudável"
+      },
+      {
+        "id": "4",
+        "name": "Estimule o desenvolvimento",
+        "description": "Converse, leia e brinque com seu filho – isso fortalece o cérebro e o vínculo afetivo."
+      },
+      {
+        "id": "5",
+        "name": "Confie no especialista",
+        "description": "Pergunte suas dúvidas ao pediatra, desde questões simples (como chupetas) até preocupações maiores. Não há pergunta boba quando se trata de saúde infantil."
+      }
+    ],
+    "advice": "A puericultura é uma parceria: o pediatra guia, mas o cuidado diário dos pais e cuidadores é o que faz a diferença. Juntos, vamos construir a base para uma infância feliz e um futuro promissor. Faça a puericultura do seu maior bem com a dedicação, carinho e competência da nossa médica pediatra."
+  }
+}

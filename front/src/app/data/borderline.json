@@ -1,0 +1,73 @@
+{
+  "title": "Transtorno de Personalidade Borderline",
+  "description": "O Transtorno de Personalidade Borderline (TPB), também conhecido como transtorno de personalidade limítrofe, é uma condição caracterizada por instabilidade emocional intensa, dificuldades nos relacionamentos e uma percepção instável de si mesmo. Pessoas com TPB frequentemente vivem emoções como em uma montanha-russa, o que pode gerar sofrimento significativo para elas e para quem está ao seu redor. Embora seja um transtorno desafiador, o tratamento adequado pode trazer alívio e melhorar a qualidade de vida.",
+  "symptoms": {
+    "description": "Os sintomas do TPB geralmente aparecem na adolescência ou início da idade adulta e incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Instabilidade emocional",
+        "description": "Mudanças rápidas e intensas de humor (como raiva, tristeza ou ansiedade), que podem durar horas ou dias."
+      },
+      {
+        "id": "2",
+        "name": "Relacionamentos turbulentos",
+        "description": "Padrões de idealização (ver alguém como perfeito) seguidos de desvalorização (rejeição ou raiva)."
+      },
+      {
+        "id": "3",
+        "name": "Medo de abandono",
+        "description": "Esforços desesperados para evitar ser deixado, reais ou imaginários, como súplicas ou comportamentos extremos."
+      },
+      {
+        "id": "4",
+        "name": "Identidade instável",
+        "description": "Sensação confusa sobre quem é, com mudanças frequentes em valores, objetivos ou autoimagem."
+      },
+      {
+        "id": "5",
+        "name": "Impulsividade",
+        "description": "Comportamentos arriscados, como gastos excessivos, sexo desprotegido, uso de substâncias ou automutilação."
+      },
+      {
+        "id": "6",
+        "name": "Automutilação ou ideação suicida",
+        "description": "Atos de se machucar (como cortes) ou pensamentos recorrentes sobre morte como forma de lidar com a dor emocional."
+      },
+      {
+        "id": "7",
+        "name": "Sentimento de vazio",
+        "description": "Uma sensação persistente de falta de propósito ou desconexão."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Para o diagnóstico, esses sintomas devem ser consistentes, causar sofrimento ou prejuízo e não serem explicados por outros transtornos ou situações temporárias.",
+  "courseOfDisease": "O TPB geralmente surge no final da adolescência e pode se intensificar no início da vida adulta. Fatores como traumas na infância (como abuso ou negligência), predisposição genética e desregulação emocional no cérebro contribuem para seu desenvolvimento. Com o tempo, os sintomas podem diminuir em intensidade, especialmente com tratamento, mas sem intervenção, o transtorno pode levar a problemas crônicos, como isolamento social, dificuldade no trabalho ou comorbidades (como depressão ou ansiedade).",
+  "treatment": {
+    "description": "O TPB é tratável, e a psicoterapia é o pilar principal:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "A Terapia Dialética Comportamental (DBT) é considerada o tratamento mais eficaz, ajudando a regular emoções, melhorar relacionamentos e reduzir comportamentos impulsivos. Outras abordagens, como a terapia baseada em mentalização ou a TCC, também podem ser úteis."
+      },
+      {
+        "id": "2",
+        "name": "Medicação",
+        "description": "Não há remédio específico para o TPB, mas antidepressivos, estabilizadores de humor ou antipsicóticos podem aliviar sintomas associados e contribuir para a melhora na qualidade de vida."
+      },
+      {
+        "id": "3",
+        "name": "Habilidades de enfrentamento",
+        "description": "Técnicas de mindfulness, regulação emocional e tolerância ao estresse são ensinadas em terapias para lidar com crises."
+      },
+      {
+        "id": "4",
+        "name": "Suporte social",
+        "description": "Envolver pessoas próximas no processo, com orientação adequada, pode fortalecer a rede de apoio."
+      }
+    ],
+    "advice": "Em casos graves, como risco iminente de suicídio, internação temporária pode ser necessária."
+  },
+  "patientAdvice": "Se você suspeita de TPB, agende uma consulta com nosso psiquiatra para uma avaliação detalhada – entender o que está acontecendo é o primeiro passo. Seja paciente consigo mesmo: as emoções intensas não são sua culpa, mas parte de uma condição tratável. Tente identificar gatilhos emocionais e peça ajuda quando precisar. Para familiares, compreender o transtorno e evitar julgamentos pode fazer diferença. O progresso pode ser gradual, mas com apoio profissional, é possível encontrar mais estabilidade e bem-estar."
+}

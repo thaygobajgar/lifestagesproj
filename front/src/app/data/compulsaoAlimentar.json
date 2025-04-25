@@ -1,0 +1,63 @@
+{
+  "title": "Transtorno da Compulsão Alimentar",
+  "description": "O Transtorno da Compulsão Alimentar (TCA) é uma condição de saúde mental caracterizada por episódios recorrentes de ingestão excessiva de alimentos em um curto período, acompanhados por uma sensação de perda de controle. Diferente da bulimia, não há comportamentos compensatórios regulares, como vômitos ou uso de laxantes, o que muitas vezes leva ao ganho de peso. O TCA vai além de \"comer demais\" – é uma relação complexa com a comida, frequentemente ligada a questões emocionais, que causa sofrimento significativo.",
+  "symptoms": {
+    "description": "Os principais sinais incluem:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Episódios de compulsão",
+        "description": "Comer grandes quantidades de comida em um tempo limitado (ex.: duas horas), muito mais do que a maioria das pessoas comeria no mesmo contexto."
+      },
+      {
+        "id": "2",
+        "name": "Perda de controle",
+        "description": "Sentir que não consegue parar de comer ou decidir o quanto consumir durante o episódio."
+      },
+      {
+        "id": "3",
+        "name": "Comportamentos associados",
+        "description": "Comer muito rápido, até sentir desconforto físico, ou em segredo por vergonha."
+      },
+      {
+        "id": "4",
+        "name": "Angústia emocional",
+        "description": "Sentimentos de culpa, nojo ou tristeza após os episódios."
+      },
+      {
+        "id": "5",
+        "name": "Frequência",
+        "description": "Os episódios ocorrem pelo menos uma vez por semana, por três meses, para o diagnóstico."
+      }
+    ]
+  },
+  "diagnosticCriteria": "O TCA não está relacionado apenas à fome física – estresse, ansiedade, tédio ou baixa autoestima frequentemente desencadeiam as compulsões.",
+  "courseOfDisease": "O TCA pode surgir em qualquer idade, mas é mais comum na adolescência ou início da idade adulta. Fatores como histórico familiar de transtornos alimentares, traumas, pressões sociais sobre o corpo ou outros problemas de saúde mental (como depressão) aumentam o risco. Sem tratamento, o transtorno pode se tornar crônico, levando a complicações como obesidade, diabetes, hipertensão e piora da autoimagem. A boa notícia é que, com intervenção, muitas pessoas conseguem mudar sua relação com a comida e reduzir os episódios.",
+  "treatment": {
+    "description": "O manejo do TCA combina abordagens para tratar tanto os aspectos emocionais quanto os comportamentos alimentares:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Psicoterapia",
+        "description": "A terapia cognitivo-comportamental (TCC) é um tratamento eficaz, ajudando a identificar gatilhos, regular emoções e desenvolver hábitos saudáveis. A terapia interpessoal também pode abordar questões relacionais ligadas ao transtorno."
+      },
+      {
+        "id": "2",
+        "name": "Acompanhamento nutricional",
+        "description": "Um nutricionista pode orientar sobre padrões alimentares regulares, sem dietas restritivas que possam piorar as compulsões."
+      },
+      {
+        "id": "3",
+        "name": "Medicação",
+        "description": "Antidepressivos, psicoestimulantes e outros medicamentos podem reduzir a frequência das compulsões e tratar sintomas associados, como ansiedade."
+      },
+      {
+        "id": "4",
+        "name": "Grupos de apoio",
+        "description": "Compartilhar experiências com outras pessoas pode aliviar a vergonha e reforçar a motivação."
+      }
+    ],
+    "advice": ""
+  },
+  "patientAdvice": "Se você suspeita de TCA, não se culpe – o que você sente é uma condição tratável, não uma falha pessoal. Agende uma consulta com nosso médico psiquiatra ou psicólogo para uma avaliação; falar sobre isso é o primeiro passo para mudar. Tente anotar quando as compulsões acontecem e o que você sentia antes – isso ajuda no tratamento. Evite se isolar e busque apoio de quem entende, como amigos ou nossos profissionais. Recuperação leva tempo, mas com ajuda, é possível encontrar equilíbrio e se sentir melhor consigo mesmo."
+}

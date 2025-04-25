@@ -113,7 +113,7 @@ export default function HomePage() {
           Em nossa clínica, oferecemos tratamento em psiquiatria e pediatria.
           Clique nas especialidades abaixo para mais informações:
         </Text>
-        <div className="mt-6 flex flex-col gap-4 md:flex-row w-full max-w-screen-xl mx-auto px-4">
+        <div className="mt-6 flex flex-col gap-4 md:flex-row md:justify-center w-full max-w-screen-xl mx-auto px-4">
           <div>
             <CardTratamentos
               href="/tratamentos/saude-mental"
@@ -139,7 +139,7 @@ export default function HomePage() {
           Agende sua consulta
         </Text>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1286.708117072637!2d-46.804978375014485!3d-24.194165958016555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d1d569f7ccb017%3A0xbb0ab43c8a2bb446!2sR.%20Leopoldo%20Diz%2C%2022%20-%20Praia%20dos%20Sonhos%2C%20Itanha%C3%A9m%20-%20SP%2C%2011740-000!5e0!3m2!1spt-BR!2sbr!4v1745095441820!5m2!1spt-BR!2sbr"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3639.354116515735!2d-46.80782288987656!3d-24.194374385061206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d1d569f7e1befd%3A0x4150e922deb196d8!2sR.%20Leopoldo%20Diz%2C%20403%20-%20Praia%20dos%20Sonhos%2C%20Itanha%C3%A9m%20-%20SP%2C%2011740-000!5e0!3m2!1spt-BR!2sbr!4v1745523530933!5m2!1spt-BR!2sbr"
           width="100%"
           height="450"
           className="rounded-xl border-0 w-full"
@@ -147,6 +147,7 @@ export default function HomePage() {
           allowFullScreen
           referrerPolicy="no-referrer-when-downgrade"
         />
+
         <div className="flex flex-col gap-[16px]">
           <Text as="p" size="text-lg">
             Onde nos encontrar:
@@ -160,7 +161,7 @@ export default function HomePage() {
               className="inline-block mr-2"
             />
             <Text as="p" size="text-lg" className="inline">
-              Rua Leopoldo Diz, 22 Praia do Sonho, Itanhaém
+              Rua Leopoldo Diz, 403 Praia do Sonho, Itanhaém
             </Text>
           </div>
           <div className="flex gap-[16px]">
@@ -173,10 +174,7 @@ export default function HomePage() {
             />
             <div className="inline">
               <Text as="p" size="text-lg">
-                (13) xxxx-xxxx
-              </Text>
-              <Text as="p" size="text-lg">
-                (13) xxxxx-xxxx
+                (13)3422-5805
               </Text>
             </div>
           </div>

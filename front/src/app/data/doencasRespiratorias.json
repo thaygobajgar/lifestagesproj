@@ -1,0 +1,112 @@
+{
+  "title": "Doenças Respiratórias na Criança",
+  "description": "As doenças respiratórias são um dos problemas de saúde mais comuns na infância, afetando desde o nariz até os pulmões. Elas podem variar de infecções leves, como resfriados, a condições mais sérias, como bronquiolite e pneumonia. Por causa do sistema imunológico e respiratório ainda em desenvolvimento, as crianças são mais vulneráveis a essas doenças, especialmente nos primeiros anos de vida. O acompanhamento pediátrico especializado é essencial para prevenir complicações, garantir o crescimento saudável e orientar os pais no manejo correto.",
+  "definition": {
+    "title": "O que são Doenças Respiratórias?",
+    "description": "São condições que afetam as vias aéreas ou os pulmões, geralmente causadas por vírus, bactérias ou fatores ambientais.",
+    "list": [
+      {
+        "id": "1",
+        "name": "Resfriado comum",
+        "description": "Congestão nasal, tosse leve e febre baixa, geralmente viral."
+      },
+      {
+        "id": "2",
+        "name": "Bronquiolite",
+        "description": "Inflamação dos bronquíolos, comum em bebês, com chiado no peito e dificuldade para respirar."
+      },
+      {
+        "id": "3",
+        "name": "Pneumonia",
+        "description": "Infecção nos pulmões, com febre alta, tosse produtiva e respiração rápida."
+      },
+      {
+        "id": "4",
+        "name": "Asma",
+        "description": "Doença crônica com crises de chiado e falta de ar, desencadeadas por alergias ou infecções."
+      }
+    ],
+    "advice": "Fatores como exposição à fumaça, ar seco ou contato com outros doentes aumentam o risco."
+  },
+  "benefits": {
+    "title": "Importância do Cuidado Especializado",
+    "description": "O manejo adequado é crucial para o desenvolvimento da criança:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Prevenção de complicações",
+        "description": "Diagnóstico precoce evita que infecções simples evoluam para quadros graves, como insuficiência respiratória."
+      },
+      {
+        "id": "2",
+        "name": "Crescimento saudável",
+        "description": "Doenças frequentes ou mal tratadas podem prejudicar o ganho de peso e o desenvolvimento físico."
+      },
+      {
+        "id": "3",
+        "name": "Bem-estar",
+        "description": "Aliviar sintomas como tosse e falta de ar melhora o sono e a disposição da criança."
+      },
+      {
+        "id": "4",
+        "name": "Orientação familiar",
+        "description": "O pediatra ensina os pais a reconhecer sinais de gravidade e adotar medidas preventivas."
+      }
+    ],
+    "advice": "Crianças com histórico de prematuridade ou condições crônicas precisam de atenção redobrada."
+  },
+  "developmentPhases": {
+    "title": "Curso das Doenças Respiratórias",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Agudas",
+        "description": "Como resfriados, duram de 5 a 10 dias, mas podem evoluir se não cuidadas. Bronquiolite e pneumonia exigem tratamento específico e recuperação mais longa."
+      },
+      {
+        "id": "2",
+        "name": "Crônicas",
+        "description": "A asma, por exemplo, pode persistir por anos, com crises intermitentes controladas por medicação e cuidados ambientais."
+      },
+      {
+        "id": "3",
+        "name": "Sazonalidade",
+        "description": "Pico no inverno ou em mudanças climáticas, quando vírus como o VSR (vírus sincicial respiratório) circulam mais."
+      }
+    ],
+    "advice": "O pediatra monitora a evolução e ajusta o tratamento conforme necessário."
+  },
+  "guidance": {
+    "title": "Orientações aos Pais e Cuidadores",
+    "description": "",
+    "list": [
+      {
+        "id": "1",
+        "name": "Sinais de alerta",
+        "description": "Procure o pediatra se a criança tiver febre alta persistente (acima de 38°C por mais de 48h), respiração rápida ou com esforço, recusa alimentar ou sonolência excessiva."
+      },
+      {
+        "id": "2",
+        "name": "Higiene",
+        "description": "Lave as mãos frequentemente e evite expor a criança a pessoas doentes ou ambientes com fumaça."
+      },
+      {
+        "id": "3",
+        "name": "Hidratação",
+        "description": "Ofereça líquidos (leite materno, água ou soluções recomendadas) para fluidificar secreções."
+      },
+      {
+        "id": "4",
+        "name": "Cuidados em casa",
+        "description": "Use soro fisiológico no nariz para aliviar a congestão e mantenha o ambiente úmido (com umidificador ou toalha molhada, se indicado)."
+      },
+      {
+        "id": "5",
+        "name": "Siga o tratamento",
+        "description": "Administre medicamentos apenas sob orientação do pediatra, respeitando doses e horários."
+      }
+    ],
+    "advice": "As doenças respiratórias podem ser desafiadoras, mas com cuidado especializado e atenção dos pais, a criança supera esses episódios sem comprometer seu desenvolvimento. Nossa pediatra é sua aliada para garantir que ela respire fácil e cresça forte. Agende a consulta do seu filho(a)."
+  }
+}

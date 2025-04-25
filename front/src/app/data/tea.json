@@ -1,0 +1,88 @@
+{
+  "title": "Transtorno do Espectro Autista (TEA)",
+  "description": "O Transtorno do Espectro Autista (TEA), frequentemente chamado apenas de autismo, é uma condição neurodesenvolvimental que afeta a forma como uma pessoa se comunica, interage socialmente e percebe o mundo. Ele é descrito como um \"espectro\" porque os sintomas e o nível de suporte necessário variam amplamente – desde casos leves, com independência, até casos graves, com necessidade de cuidados intensivos. O TEA não é uma doença a ser \"curada\", mas uma característica inerente à pessoa, que pode ser manejada com intervenções adequadas.",
+  "symptoms": {
+    "description": "Os sinais do TEA geralmente aparecem nos primeiros anos de vida e se agrupam em duas áreas principais:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Dificuldades na interação social e comunicação",
+        "description": ""
+      },
+      {
+        "id": "2",
+        "name": "",
+        "description": "Problemas em entender ou usar gestos, expressões faciais e tom de voz."
+      },
+      {
+        "id": "3",
+        "name": "",
+        "description": "Dificuldade em iniciar ou manter conversas e formar amizades."
+      },
+      {
+        "id": "4",
+        "name": "",
+        "description": "Contato visual reduzido ou respostas sociais atípicas."
+      },
+      {
+        "id": "5",
+        "name": "Padrões restritivos e repetitivos",
+        "description": ""
+      },
+      {
+        "id": "6",
+        "name": "",
+        "description": "Comportamentos repetitivos, como balançar o corpo ou alinhar objetos."
+      },
+      {
+        "id": "7",
+        "name": "",
+        "description": "Apego intenso a rotinas ou resistência a mudanças (como ficar muito ansioso com alterações no dia a dia)."
+      },
+      {
+        "id": "8",
+        "name": "",
+        "description": "Interesses fixos e profundos em temas específicos (como trens ou números)."
+      },
+      {
+        "id": "0",
+        "name": "",
+        "description": " Sensibilidade sensorial: Reações intensas a sons, luzes ou texturas, ou busca por estímulos sensoriais (como cheirar objetos)."
+      }
+    ]
+  },
+  "diagnosticCriteria": "Os sintomas variam em intensidade, e algumas pessoas com TEA têm habilidades excepcionais em áreas como memória ou matemática, enquanto outras podem ter atrasos no desenvolvimento ou dificuldades de aprendizagem.",
+  "courseOfDisease": "O TEA é uma condição lifelong (ao longo da vida), com sinais geralmente notados antes dos 3 anos, embora o diagnóstico possa vir mais tarde em casos leves. Fatores genéticos desempenham um papel importante, mas influências ambientais no início do desenvolvimento também são investigadas. O curso depende do nível de suporte: algumas pessoas vivem de forma independente, enquanto outras precisam de assistência contínua. Com intervenções precoces, muitas melhoram suas habilidades sociais e de comunicação ao longo do tempo, mas os traços centrais do TEA permanecem.",
+  "treatment": {
+    "description": "O foco do manejo do TEA é melhorar a qualidade de vida e promover autonomia, não \"eliminar\" o transtorno:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Intervenções comportamentais",
+        "description": "Terapias como a Análise do Comportamento Aplicada (ABA) ajudam a desenvolver habilidades sociais, de comunicação e a reduzir"
+      },
+      {
+        "id": "2",
+        "name": "Terapia ocupacional e fonoaudiológica",
+        "description": "Auxiliam no manejo de questões sensoriais, coordenação motora e linguagem."
+      },
+      {
+        "id": "3",
+        "name": "Psicoterapia",
+        "description": "Em adolescentes ou adultos, pode ajudar a lidar com ansiedade, depressão ou autoestima, comuns no TEA."
+      },
+      {
+        "id": "4",
+        "name": "Educação adaptada",
+        "description": "Planos individualizados na escola, com apoio de professores e mediadores, são essenciais."
+      },
+      {
+        "id": "5",
+        "name": "Medicação",
+        "description": "Não trata o TEA em si, mas pode ser usada para sintomas associados, como irritabilidade ou hiperatividade, sob orientação psiquiátrica."
+      }
+    ],
+    "advice": "A participação da família é crucial para reforçar as estratégias no dia a dia."
+  },
+  "patientAdvice": "Se você suspeita de TEA em si mesmo ou em alguém próximo, agende uma consulta com nosso médico psiquiatra ou em caso de crianças com nossa médica pediatra para uma avaliação – o diagnóstico precoce abre portas para intervenções eficazes. Para pais, observe sinais como atraso na fala ou falta de resposta social e não hesite em buscar ajuda. Aceite que cada pessoa com TEA é única: foque em suas forças e necessidades, não em comparações. Crie rotinas previsíveis e um ambiente acolhedor. Com apoio, paciência e compreensão, é possível construir uma vida plena e significativa."
+}
