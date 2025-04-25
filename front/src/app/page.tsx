@@ -6,29 +6,35 @@ import Text from "./components/Text";
 import Button from "./components/Button";
 import { CardTratamentos } from "./components/CardTratamentos";
 
+// src/app/page.tsx
+
 export const metadata = {
-  title: "LifeStages | Cuidando da sua saúde em todas as fases",
+  title: "LifeStages | Clínica de Saúde Mental e Infantil em Itanhaém",
   description:
-    "Conheça a LifeStages, clínica especializada em saúde integral com profissionais de diversas áreas para todas as fases da vida.",
+    "Conheça a LifeStages, referência em saúde mental e pediatria em Itanhaém. Oferecemos cuidado humano, ciência atualizada e atendimento para todas as fases da vida.",
   keywords: [
-    "Clínica médica",
-    "Saúde da família",
+    "Clínica médica em Itanhaém",
+    "Pediatria",
+    "Psiquiatria",
+    "Saúde Mental",
     "LifeStages",
-    "Agendamento online",
+    "Agendamento de consulta",
     "Tratamentos médicos",
+    "Clínica infantil",
+    "Saúde da família",
   ],
   openGraph: {
-    title: "LifeStages | Saúde integral",
+    title: "LifeStages | Saúde para todas as fases da vida",
     description:
-      "Cuidamos de você em todas as fases da vida com uma equipe completa de especialistas.",
+      "A LifeStages é uma clínica especializada em Itanhaém focada em Saúde Mental e Saúde Infantil. Conheça nossos tratamentos e agende sua consulta.",
     url: "https://lifestages.com.br",
     siteName: "LifeStages",
     images: [
       {
-        url: "/images/og-home.jpg",
+        url: "/images/logo.png",
         width: 1200,
         height: 630,
-        alt: "LifeStages clínica médica",
+        alt: "Banner LifeStages Clínica",
       },
     ],
     type: "website",

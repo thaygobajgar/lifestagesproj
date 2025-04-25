@@ -115,7 +115,7 @@ export default function QuemSomos() {
               em 2007 e me especializei em Pediatria Clínica pelo CAEPP
               (Instituto da Criança/HC-FMUSP), concluindo a especialização em
               2011.
-              <br /> Sempre presei o aprendizado, mantendo constante atualização
+              <br /> Sempre prezei o aprendizado, mantendo constante atualização
               dentro da pediatria através de cursos e congressos. Tenho ampla
               experiência em consultório, além de atuar como médica visitadora e
               plantonista no Hospital Regional Jorge Rossmann desde março de

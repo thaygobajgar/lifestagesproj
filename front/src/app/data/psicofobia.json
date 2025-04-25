@@ -1,0 +1,91 @@
+{
+  "title": "Psicofobia: Preconceito na Saúde Mental",
+  "description": "A psicofobia é o preconceito, a discriminação ou a atitude negativa direcionada a pessoas que convivem com transtornos mentais ou que buscam cuidados para sua saúde mental. Derivada das palavras \"psico\" (mente) e \"fobia\" (rejeição), ela se manifesta em julgamentos, estigmas ou exclusão, muitas vezes dificultando o acesso ao tratamento e agravando o sofrimento de quem já enfrenta desafios emocionais. Combater a psicofobia é essencial para promover uma sociedade mais acolhedora e saudável.",
+  "definition": {
+    "title": "O que Caracteriza a Psicofobia?",
+    "description": "A psicofobia pode aparecer de várias formas:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Estereótipos",
+        "description": "Adaptado às demandas do recém-nascido, e não requer preparo ou complementos nesse período."
+      },
+      {
+        "id": "2",
+        "name": "Minimização",
+        "description": "O ato de amamentar também estimula o desenvolvimento da mandíbula e fortalece a conexão emocional com a mãe."
+      },
+      {
+        "id": "3",
+        "name": "Exclusão",
+        "description": "Evitar ou tratar de forma diferente pessoas que revelam um transtorno mental, no trabalho, na família ou em círculos sociais."
+      },
+      {
+        "id": "4",
+        "name": "Autoestigma",
+        "description": "Quando a própria pessoa internaliza preconceitos, sentindo vergonha ou culpa por buscar ajuda."
+      }
+    ],
+    "advice": "Essas atitudes muitas vezes surgem da falta de informação e de mitos sobre saúde mental, perpetuados por gerações."
+  },
+  "benefits": {
+    "title": "Impactos da Psicofobia",
+    "description": "O preconceito tem consequências sérias:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Atraso no tratamento",
+        "description": "O medo de ser julgado pode levar alguém a esconder sintomas ou evitar procurar um psiquiatra ou psicólogo."
+      },
+      {
+        "id": "2",
+        "name": "Isolamento",
+        "description": "A rejeição social agrava a solidão, um fator de risco para transtornos como depressão e ansiedade."
+      },
+      {
+        "id": "3",
+        "name": "Piora da saúde mental",
+        "description": "Sentir-se incompreendido ou estigmatizado aumenta o estresse e a sensação de desamparo."
+      },
+      {
+        "id": "4",
+        "name": "Barreiras sociais",
+        "description": "Dificuldade em manter empregos, amizades ou relações familiares devido à discriminação."
+      }
+    ],
+    "advice": "A psicofobia não prejudica apenas o indivíduo, mas também a sociedade, ao perpetuar a ideia de que transtornos mentais são tabu."
+  },
+  "developmentPhases": {
+    "title": "Como Combater a Psicofobia",
+    "description": "Superar esse preconceito exige esforço coletivo e individual:",
+    "list": [
+      {
+        "id": "1",
+        "name": "Educação",
+        "description": "Informar-se sobre transtornos mentais ajuda a desmistificar ideias erradas e a entender que são condições médicas, não falhas pessoais."
+      },
+      {
+        "id": "2",
+        "name": "Linguagem cuidadosa",
+        "description": "Evitar termos pejorativos como \"louco\" ou \"desequilibrado\" e adotar uma postura empática."
+      },
+      {
+        "id": "3",
+        "name": "Apoio",
+        "description": "Escutar sem julgar e incentivar quem precisa de ajuda a buscar tratamento."
+      },
+      {
+        "id": "4",
+        "name": "Visibilidade",
+        "description": "Compartilhar histórias de superação (com consentimento) pode normalizar a conversa sobre saúde mental."
+      }
+    ],
+    "advice": "Profissionais de saúde, escolas e empresas também têm papel crucial ao promover ambientes acolhedores e políticas inclusivas."
+  },
+  "guidance": {
+    "title": "Orientação aos Pacientes",
+    "description": "Se você enfrenta psicofobia, saiba que o problema está no preconceito dos outros, não em você. Não deixe que julgamentos o impeçam de cuidar da sua saúde mental – buscar ajuda é um ato de força. Converse com pessoas de confiança ou procure grupos de apoio para se sentir menos sozinho. Se possível, eduque quem está ao seu redor sobre sua condição, mas sem se sobrecarregar. Sua jornada importa, e você merece ser tratado com respeito e dignidade. Na Life Stages estamos preparados para cuidar da sua Saúde Mental com o respeito e empatia que você merece.",
+    "list": [],
+    "advice": "Diga não a Psicofobia. Seu preconceito causa sofrimento. (Campanha da ABP)"
+  }
+}
